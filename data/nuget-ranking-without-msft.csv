@@ -1,0 +1,1405 @@
+name,version,description,downloads,ranking
+Newtonsoft.Json,13.0.3,Json.NET is a popular high-performance JSON framework for .NET,"6,011,704,986",1
+Serilog,4.2.0,Simple .NET logging with fully-structured events,"1,665,559,700",2
+AWSSDK.Core,3.7.402.29,The Amazon Web Services SDK for .NET - Core Runtime,"1,136,817,852",3
+Castle.Core,5.2.1,"Castle Core, including DynamicProxy, Logging Abstractions and DictionaryAdapter","1,090,087,246",4
+Newtonsoft.Json.Bson,1.0.3,Json.NET BSON adds support for reading and writing BSON,"916,142,651",5
+Swashbuckle.AspNetCore.Swagger,8.0.0,Middleware to expose Swagger JSON endpoints from APIs built on ASP.NET Core,"895,748,284",6
+Swashbuckle.AspNetCore.SwaggerGen,8.0.0,Swagger Generator for APIs built on ASP.NET Core,"894,743,659",7
+Polly,8.5.2,"Polly is a .NET resilience and transient-fault-handling library that allows developers to express resilience and transient fault handling policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation,...
+More information","847,114,701",8
+AutoMapper,14.0.0,A convention-based object-object mapper.,"790,892,377",9
+Moq,4.20.72,Moq is the most popular and friendly mocking framework for .NET.,"786,138,864",10
+Swashbuckle.AspNetCore.SwaggerUI,8.0.0,Middleware to expose an embedded version of the swagger-ui from an ASP.NET Core application,"766,151,655",11
+Swashbuckle.AspNetCore,8.0.0,Swagger tools for documenting APIs built on ASP.NET Core,"704,286,635",12
+Serilog.Sinks.File,6.0.0,Write Serilog events to text files in plain or JSON format.,"700,662,103",13
+Google.Protobuf,3.30.2,C# runtime library for Protocol Buffers - Google's data interchange format.,"685,192,012",14
+Serilog.Sinks.Console,6.0.0,A Serilog sink that writes log events to the console/terminal.,"674,248,369",15
+Serilog.Extensions.Logging,9.0.1,Low-level Serilog provider for Microsoft.Extensions.Logging,"626,676,031",16
+xunit,2.9.3,"xUnit.net is a developer testing framework, built to support Test Driven Development, with a design goal of extreme simplicity and alignment with framework features.
+
+Installing this package installs...
+More information","623,347,340",17
+StackExchange.Redis,2.8.31,"High performance Redis client, incorporating both synchronous and asynchronous usage.","601,338,057",18
+FluentValidation,11.11.0,A validation library for .NET that uses a fluent interface to construct strongly-typed validation rules.,"600,578,220",19
+Humanizer.Core,2.14.1,Humanizer core package that contains the library and the neutral language (English) resources,"562,622,495",20
+coverlet.collector,6.0.4,"Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.","560,385,806",21
+Grpc.Core.Api,2.70.0,gRPC C# Surface API,"558,272,666",22
+Serilog.Settings.Configuration,9.0.0,Microsoft.Extensions.Configuration (appsettings.json) support for Serilog.,"556,237,939",23
+Serilog.Formatting.Compact,3.0.0,"A simple, compact JSON-based event format for Serilog.","555,602,893",24
+Pipelines.Sockets.Unofficial,2.2.8,Package Description,"517,714,046",25
+Npgsql,9.0.3,Npgsql is the open source .NET data provider for PostgreSQL.,"487,406,073",26
+FluentAssertions,8.2.0,"A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or
+      BDD-style unit tests. Works with .NET Standard 2.0 and higher, .NET Framework 4.7 and...
+More information","485,390,425",27
+Serilog.Extensions.Hosting,9.0.0,Serilog support for .NET Core logging in hosted services,"467,394,176",28
+Dapper,2.1.66,"A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc. Major Sponsor: Dapper Plus from ZZZ Projects.","454,596,179",29
+Serilog.AspNetCore,9.0.0,Serilog support for ASP.NET Core logging,"451,973,243",30
+NUnit,4.3.2,"NUnit is a unit-testing framework for all .NET languages.
+            It can run on macOS, Linux and Windows operating systems.
+            NUnit can be used for a wide range of testing, from unit testing with...
+More information","451,670,869",31
+Serilog.Sinks.Debug,3.0.0,A Serilog sink that writes log events to the debug output window.,"422,085,898",32
+NLog,5.4.0,"NLog is a logging platform for .NET with rich log routing and management capabilities.
+NLog supports traditional logging, structured logging and the combination of both.
+
+Supported platforms:
+
+- .NET 5, 6, 7, 8...
+More information","404,486,057",33
+RestSharp,112.1.0,Simple REST and HTTP API Client,"391,940,567",34
+Grpc.Net.Common,2.70.0,Infrastructure for common functionality in gRPC,"384,402,831",35
+Portable.BouncyCastle,1.9.0,"BouncyCastle portable version with support for .NET 4, .NET Standard 2.0","374,721,964",36
+Autofac,8.2.0,Autofac is an IoC container for Microsoft .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.,"374,404,900",37
+Grpc.Net.Client,2.70.0,.NET client for gRPC,"363,099,686",38
+AWSSDK.S3,3.7.415.28,"Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.","352,792,876",39
+NUnit3TestAdapter,5.0.0,"The NUnit3 TestAdapter for Visual Studio, all versions from 2012 and onwards, and DotNet (incl. .Net core), versions .net framework 4.6.2 or higher, .net core 3.1, .net 5 or higher.
+
+      Note that this...
+More information","351,897,875",40
+Serilog.Sinks.PeriodicBatching,5.0.0,Buffer batches of log events to be flushed asynchronously.,"324,513,182",41
+CsvHelper,33.0.1,"A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.","320,858,207",42
+EntityFramework,6.5.1,Entity Framework 6 (EF6) is a tried and tested object-relational mapper for .NET with many years of feature development and stabilization.,"320,271,966",43
+RabbitMQ.Client,7.1.2,"The RabbitMQ .NET client is the official client library for C# (and, implicitly, other .NET languages)","317,909,645",44
+Google.Apis.Core,1.69.0,"The Google APIs Core Library contains the Google APIs HTTP layer, JSON support, Data-store, logging and so on.","316,034,089",45
+Google.Apis,1.69.0,"The Google APIs Client Library is a runtime client for working with Google services.
+The library supports service requests, media upload and download, etc.","313,129,004",46
+MongoDB.Bson,3.3.0,MongoDB's Official Bson Library.,"312,472,957",47
+Google.Apis.Auth,1.69.0,"The Google APIs Client Library is a runtime client for working with Google services.
+
+This package includes auth components like user-credential, authorization code flow, etc. for making authenticated calls...
+More information","309,978,245",48
+JetBrains.Annotations,2024.3.0,"JetBrains.Annotations help reduce false positive warnings, explicitly declare purity and nullability in your code, deal with implicit usages of members, support special semantics of APIs in ASP.NET and XAML...
+More information","307,296,326",49
+SQLitePCLRaw.core,2.1.11,"SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  This package does not provide an API which is friendly to app developers.  Rather, it provides an API which handles...
+More information","298,779,435",50
+log4net,3.0.4,"log4net is a tool to help the programmer output log statements to a variety of output targets.
+In case of problems with an application, it is helpful to enable logging so that the problem
+can be located. With...
+More information","294,493,106",51
+Polly.Extensions.Http,3.0.0,Polly.Extensions.Http is an extensions package containing opinionated convenience methods for configuring Polly policies to handle transient faults typical of calls through HttpClient.,"288,959,728",52
+OpenTelemetry.Api,1.11.2,OpenTelemetry .NET API,"287,545,405",53
+MongoDB.Driver.Core,2.30.0,Core Component of the Official MongoDB .NET Driver.,"286,888,331",54
+MediatR,12.4.1,"Simple, unambitious mediator implementation in .NET","284,670,042",55
+YamlDotNet,16.3.0,"YamlDotNet is a .NET library for YAML. YamlDotNet provides low level parsing and emitting of YAML as well as a high level object model similar to XmlDocument. A serialization library is also included that...
+More information","281,752,281",56
+DnsClient,1.8.0,DnsClient.NET is a simple yet very powerful and high performance open source library for the .NET Framework to do DNS lookups,"268,895,873",57
+SharpZipLib,1.4.2,"SharpZipLib (#ziplib, formerly NZipLib) is a compression library for Zip, GZip, BZip2, and Tar written entirely in C# for .NET. It is implemented as an assembly (installable in the GAC), and thus can easily be...
+More information","266,222,856",58
+MongoDB.Driver,3.3.0,Official .NET driver for MongoDB.,"265,880,844",59
+FluentValidation.DependencyInjectionExtensions,11.11.0,Dependency injection extensions for FluentValidation,"257,378,547",60
+Elasticsearch.Net,7.17.5,"Exposes all the Elasticsearch API endpoints but leaves you in control of building the request and response bodies. 
+      Comes with built in cluster failover/connection pooling support.","249,063,994",61
+Npgsql.EntityFrameworkCore.PostgreSQL,9.0.4,PostgreSQL/Npgsql provider for Entity Framework Core.,"239,746,809",62
+DocumentFormat.OpenXml,3.3.0,"The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:
+
+- High-performance generation of word-processing documents, spreadsheets, and...
+More information","223,307,128",63
+SharpCompress,0.39.0,"SharpCompress is a compression library for NET Standard 2.0/NET 4.8/NET 4.8.1/NET 6.0/NET 8.0 that can unrar, decompress 7zip, decompress xz, zip/unzip, tar/untar lzip/unlzip, bzip2/unbzip2 and gzip/ungzip with...
+More information","221,942,214",64
+HtmlAgilityPack,1.12.0,"This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows...
+More information","221,523,452",65
+OpenTelemetry,1.11.2,OpenTelemetry .NET SDK,"219,455,798",66
+Hangfire.Core,1.8.18,"An easy and reliable way to perform fire-and-forget, delayed and recurring, long-running, short-running, CPU or I/O intensive tasks in .NET applications. No Windows Service / Task Scheduler required.
+Backed by...
+More information","218,663,636",67
+jQuery,3.7.1,"jQuery is a new kind of JavaScript Library.
+        jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web...
+More information","210,283,905",68
+MongoDB.Libmongocrypt,1.12.0,Libmongocrypt wrapper for the .NET driver.,"201,908,660",69
+AutoFixture,4.18.1,"AutoFixture makes it easier for developers to do Test-Driven Development by automating non-relevant Test Fixture Setup, allowing the Test Developer to focus on the essentials of each test case.","199,638,224",70
+TimeZoneConverter,7.0.0,"Lightweight library to convert quickly between IANA, Windows, and Rails time zone names.","198,736,768",71
+Fare,2.2.1,".NET port of dk.brics.automaton - Project Fare is an effort to bring a DFA/NFA (finite-state automata) implementation from Java to .NET. There are quite a few implementations available in other languages today....
+More information","198,242,367",72
+prometheus-net,8.2.1,.NET client library for the Prometheus monitoring and alerting system,"197,740,810",73
+FluentValidation.AspNetCore,11.3.0,AspNetCore integration for FluentValidation,"197,627,889",74
+Swashbuckle.AspNetCore.Annotations,8.0.0,"Provides custom attributes that can be applied to controllers, actions and models to enrich the generated Swagger","196,848,059",75
+NJsonSchema,11.2.0,"JSON Schema reader, generator and validator for .NET","195,468,778",76
+AWSSDK.SecurityToken,3.7.401.72,The AWS Security Token Service (AWS STS) enables you to provide trusted users with temporary credentials that provide controlled access to your AWS resources.,"194,913,365",77
+SQLitePCLRaw.lib.e_sqlite3,2.1.11,"This package contains platform-specific native code builds of SQLite for use with SQLitePCLRaw.  To use this, you need SQLitePCLRaw.core as well as one of the SQLitePCLRaw.provider.* packages.  Convenience...
+More information","190,689,985",78
+NodaTime,3.2.2,Noda Time is a date and time API acting as an alternative to the built-in DateTime/DateTimeOffset etc types in .NET.,"186,267,718",79
+MimeKit,4.11.0,"MimeKit is an Open Source library for creating and parsing MIME, S/MIME and PGP messages on desktop and mobile platforms. It also supports parsing of Unix mbox files.
+
+      Unlike any other .NET MIME parser,...
+More information","183,973,258",80
+Remotion.Linq,2.2.0,"re-linq Frontend: A foundation for parsing LINQ expression trees and generating queries in SQL or other languages.
+Key features:
+- Transforms expression trees into abstract syntax trees resemblying LINQ query...
+More information","181,035,922",81
+Grpc.Core,2.46.6,"C# implementation of gRPC based on native gRPC C-core library.
+
+Note that the Grpc.Core implementation of gRPC for C# is in maintenance mode and will be replaced by grpc-dotnet in the future.
+See...
+More information","180,252,487",82
+Mono.TextTemplating,3.0.0,"Embeddable engine for the T4 templating language, a general-purpose way to generate text or code files using C#","179,717,100",83
+StyleCop.Analyzers,1.1.118,An implementation of StyleCop's rules using Roslyn analyzers and code fixes,"179,291,071",84
+SQLitePCLRaw.bundle_e_sqlite3,2.1.11,This 'batteries-included' bundle brings in SQLitePCLRaw.core and the necessary stuff for certain common use cases.  Call SQLitePCL.Batteries.Init().  Policy of this bundle: e_sqlite3 included,"176,091,305",85
+Google.Api.Gax,4.10.0,Support classes for Google API client libraries,"174,583,105",86
+MessagePack,3.1.3,"Extremely Fast MessagePack(MsgPack) Serializer for C# (.NET Framework, .NET 6, Unity, Xamarin).","173,595,780",87
+Scrutor,6.0.1,Register services using assembly scanning and a fluent API.,"173,170,773",88
+Serilog.Enrichers.Environment,3.0.1,Enrich Serilog log events with properties from System.Environment.,"170,048,086",89
+coverlet.msbuild,6.0.4,"Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.","167,983,650",90
+AWSSDK.SQS,3.7.400.123,"Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fully managed message queuing service. SQS makes it simple and cost-effective to decouple the components of a cloud application.","166,171,324",91
+NSubstitute,5.3.0,"NSubstitute is a friendly substitute for .NET mocking libraries. It has a simple, succinct syntax to help developers write clearer tests. NSubstitute is designed for Arrange-Act-Assert (AAA) testing and with...
+More information","164,457,620",92
+OpenTelemetry.Api.ProviderBuilderExtensions,1.11.2,Contains extensions to register OpenTelemetry in applications using Microsoft.Extensions.DependencyInjection,"164,408,571",93
+Grpc.Tools,2.71.0,gRPC and Protocol Buffer compiler for C# projects,"163,242,716",94
+Grpc.Net.ClientFactory,2.70.0,HttpClientFactory integration the for gRPC .NET client,"161,646,948",95
+SSH.NET,2024.2.0,"SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.","161,446,524",96
+Namotion.Reflection,3.3.0,".NET library with advanced reflection APIs like XML documentation reading, Null Reference Types (C# 8) reflection and string based type checks.","158,142,190",97
+Autofac.Extensions.DependencyInjection,10.0.0,"Autofac implementation of the interfaces in Microsoft.Extensions.DependencyInjection.Abstractions, the .NET Framework dependency injection abstraction.","157,969,188",98
+CommandLineParser,2.9.1,"Terse syntax C# command line parser for .NET.  For FSharp support see CommandLineParser.FSharp.  The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line...
+More information","156,709,671",99
+WebGrease,1.6.0,"Web Grease is a suite of tools for optimizing javascript, css files and images.","154,702,193",100
+NLog.Extensions.Logging,5.4.0,"NLog LoggerProvider for Microsoft.Extensions.Logging for logging in .NET Standard libraries and .NET Core applications.
+
+For ASP.NET Core, check: https://www.nuget.org/packages/NLog.Web.AspNetCore","154,219,977",101
+protobuf-net,3.2.46,"Provides simple access to fast and efficient ""Protocol Buffers"" serialization from .NET applications","154,171,964",102
+SendGrid,9.29.3,C# client library and examples for using Twilio SendGrid API's to send mail and access Web API v3 endpoints with .NET Standard 1.3 and .NET Core support.,"152,192,443",103
+MailKit,4.11.0,"MailKit is an Open Source cross-platform .NET mail-client library that is based on MimeKit and optimized for mobile devices.
+
+Features include:
+* HTTP, Socks4, Socks4a and Socks5 proxy support.
+* SASL...
+More information","150,831,266",104
+AWSSDK.Extensions.NETCore.Setup,3.7.400,Extensions for the AWS SDK for .NET to integrate with .NET Core configuration and dependency injection frameworks.,"150,136,211",105
+SixLabors.ImageSharp,3.1.7,"A new, fully featured, fully managed, cross-platform, 2D graphics API for .NET","149,851,485",106
+MediatR.Contracts,2.0.1,"Contracts package for requests, responses, and notifications","149,051,146",107
+Antlr,3.5.0.2,"ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a...
+More information","148,987,185",108
+SkiaSharp,3.116.1,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render...
+More information","148,097,362",109
+AngleSharp,1.2.0,"AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.","147,155,089",110
+MySqlConnector,2.4.0,"A truly async MySQL ADO.NET provider, supporting MySQL Server, MariaDB, Amazon Aurora, Azure Database for MySQL, Google Cloud SQL, and more.","146,602,807",111
+librdkafka.redist,2.8.0,The Apache Kafka C/C++ client library - redistributable,"145,063,506",112
+Polly.Core,8.5.2,"Polly.Core is a .NET resilience and transient-fault-handling library that allows developers to express resilience strategies such as Retry, Circuit Breaker, Hedging, Timeout, Chaos and Fallback in a fluent and...
+More information","142,362,749",113
+Confluent.Kafka,2.8.0,Confluent's .NET Client for Apache Kafka,"140,803,547",114
+Nito.Disposables,2.5.0,IDisposable and IAsyncDisposable helper types.,"138,321,545",115
+EO.WebBrowser,25.1.22,"EO.WebBrowser is a .NET browser engine based on Google's Chrome project. It packs a full featured browser engine inside .NET DLLs that have zero external dependency. It also offers many advanced features such...
+More information","137,626,022",116
+MessagePack.Annotations,3.1.3,Attributes and interfaces for .NET types serializable with MessagePack.,"137,151,182",117
+EPPlus,8.0.1,A spreadsheet library for .NET framework and .NET core,"136,977,077",118
+NEST,7.17.5,"Strongly typed interface to Elasticsearch. Fluent and classic object initializer mappings of requests and 
+      responses. Uses and exposes Elasticsearch.Net.","132,261,571",119
+NCrontab.Signed,3.3.3,"NCrontab is crontab for all .NET runtimes supported by .NET Standard 1.0. It provides parsing and formatting of crontab expressions as well as calculation of occurrences of time based on a schedule expressed in...
+More information","132,239,202",120
+Serilog.Enrichers.Thread,4.0.0,Enrich Serilog events with properties from the current thread.,"129,994,129",121
+Serilog.Sinks.Async,2.1.0,Asynchronous sink wrapper for Serilog.,"129,932,866",122
+MassTransit,8.4.0,"MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.","129,042,019",123
+Selenium.WebDriver,4.30.0,"Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements...
+More information","128,215,403",124
+AWSSDK.DynamoDBv2,3.7.406.11,"Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.","128,013,502",125
+Nito.AsyncEx.Tasks,5.1.2,Common helper methods for tasks as used in asynchronous programming.,"127,821,702",126
+Google.Api.CommonProtos,2.16.0,Common Protocol Buffer messages for Google APIs,"122,553,572",127
+SQLitePCLRaw.provider.e_sqlite3,2.1.11,"SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...
+More information","122,101,890",128
+Swashbuckle.AspNetCore.Newtonsoft,8.0.0,Swagger Generator opt-in component to support Newtonsoft.Json serializer behaviors,"121,939,015",129
+Grpc.AspNetCore.Server,2.70.0,gRPC support for ASP.NET Core,"121,745,588",130
+OpenTelemetry.Extensions.Hosting,1.11.2,Contains extensions to start OpenTelemetry in applications using Microsoft.Extensions.Hosting,"120,789,279",131
+Cake.Tool,5.0.0,The Cake .NET Tool.,"116,004,912",132
+WebActivatorEx,2.2.0,"A package that allows other packages to execute some startup code in web apps. This package should be used over the older WebActivator, which was not strong named.","114,516,767",133
+AWSSDK.SimpleSystemsManagement,3.7.404.4,Amazon EC2 Simple Systems Manager (SSM) enables you to manage a number of administrative and configuration tasks on your instances.,"114,435,590",134
+AWSSDK.SimpleNotificationService,3.7.400.123,"Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push messaging service. Amazon SNS makes it simple and cost-effective to push notifications to Apple, Google, Fire OS, and...
+More information","114,252,030",135
+NetTopologySuite,2.6.0,The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.,"112,262,334",136
+Serilog.Exceptions,8.4.0,Log exception details and custom properties that are not output in Exception.ToString().,"112,005,537",137
+Flurl,4.0.0,"A fluent, portable URL builder. To make HTTP calls off the fluent chain, check out Flurl.Http.","111,199,448",138
+AWSSDK.SecretsManager,3.7.400.123,"AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...
+More information","111,083,445",139
+NSwag.Core,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"111,010,708",140
+OpenTelemetry.Instrumentation.AspNetCore,1.11.1,ASP.NET Core instrumentation for OpenTelemetry .NET,"110,941,666",141
+SshNet.Security.Cryptography,1.3.0,Cryptographic functions for .NET,"110,514,722",142
+Modernizr,2.8.3,"Modernizr adds classes to the <html> element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.
+        Modernizr is a small...
+More information","110,303,642",143
+NLog.Web.AspNetCore,5.4.0,"Integrates NLog as provider for Microsoft.Extensions.Logging, and provides NLog LayoutRenderers to enrich logging output with details from HttpContext.","110,228,894",144
+OpenTelemetry.Instrumentation.Http,1.11.1,Http instrumentation for OpenTelemetry .NET.,"109,835,593",145
+bootstrap,5.3.3,"The most popular front-end framework for developing responsive, mobile first projects on the web.","109,829,922",146
+Refit,8.0.0,The automatic type-safe REST library for Xamarin and .NET,"109,513,818",147
+Nito.AsyncEx.Coordination,5.1.2,Asynchronous coordination primitives.,"108,624,150",148
+Nito.Collections.Deque,1.2.1,A double-ended queue.,"108,565,865",149
+Bogus,35.6.2,"A simple and sane data generator for populating objects that supports different locales. A delightful port of the famed faker.js and inspired by FluentValidation. Use Bogus to create UIs with fake data or seed...
+More information","108,294,233",150
+MySql.Data,9.2.0,MySql.Data.MySqlClient .Net Core Class Library,"107,646,741",151
+Nito.AsyncEx.Context,5.1.2,A single-threaded async-compatible context.,"106,452,771",152
+Hangfire.AspNetCore,1.8.18,"ASP.NET Core support for Hangfire, a background job framework for .NET applications.","105,563,138",153
+jQuery.Validation,1.21.0,"This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re...
+More information","105,459,016",154
+Google.Api.Gax.Rest,4.10.0,Common Protocol Buffer messages for Google APIs,"105,142,714",155
+Quartz,3.14.0,Quartz Scheduling Framework for .NET,"104,283,752",156
+starkbank-ecdsa,1.3.3,Pure C# implementation of the Elliptic Curve Digital Signature Algorithm (ECDSA) by Stark Bank,"101,763,065",157
+Amazon.Lambda.Core,2.5.1,Amazon Lambda .NET Core support - Core package.,"101,500,705",158
+prometheus-net.AspNetCore,8.2.1,ASP.NET Core middleware and stand-alone Kestrel server for exporting metrics to Prometheus,"100,220,124",159
+OpenTelemetry.Exporter.OpenTelemetryProtocol,1.11.2,OpenTelemetry protocol exporter for OpenTelemetry .NET,"100,150,425",160
+Serilog.Sinks.RollingFile,3.3.0,The rolling file sink for Serilog - Simple .NET logging with fully-structured events,"98,937,359",161
+Serilog.Sinks.ApplicationInsights,4.0.0,Serilog sink for Application Insights.,"98,534,188",162
+BouncyCastle.Cryptography,2.5.1,BouncyCastle.NET is a popular cryptography library for .NET,"98,437,423",163
+ClosedXML,0.104.2,"See release notes https://github.com/ClosedXML/ClosedXML/releases/tag/0.104.2 ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive...
+More information","98,040,387",164
+SixLabors.Fonts,2.1.2,A cross-platform library for loading and laying out fonts for processing and measuring; written in C#,"97,923,885",165
+ZstdSharp.Port,0.8.5,Port of zstd compression library to c#,"97,014,100",166
+Hangfire.SqlServer,1.8.18,"SQL Server 2008+ (including Express), SQL Server LocalDB and SQL Azure storage support for Hangfire, a background job framework for .NET applications.","93,756,590",167
+Unity,5.11.10,This package contains Unity Container and Abstractions libraries as a single package.,"93,133,277",168
+Grpc.Auth,2.70.0,gRPC C# Authentication Library,"92,765,017",169
+Selenium.Support,4.30.0,"Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements...
+More information","92,228,234",170
+Serilog.Sinks.Seq,9.0.0,A Serilog sink that writes events to Seq using newline-delimited JSON and HTTP/HTTPS.,"92,122,074",171
+Google.Api.Gax.Grpc,4.10.0,Additional support classes for Google gRPC API client libraries,"91,965,901",172
+SpecFlow,3.9.74,"SpecFlow aims at bridging the communication gap between domain experts and developers by binding business readable behavior specifications to the underlying implementation. Our mission is to provide a pragmatic...
+More information","91,796,453",173
+Serilog.Formatting.Elasticsearch,10.0.0,Serilog sink for Elasticsearch,"91,598,481",174
+AspNetCore.HealthChecks.UI.Client,9.0.0,HealthChecks.UI.Client contains some mandatory abstractions to work with HealthChecks.UI.,"91,019,665",175
+Polly.Contrib.WaitAndRetry,1.1.1,Polly.Contrib.WaitAndRetry is an extension library for Polly containing helper methods for a variety of wait-and-retry strategies.,"90,440,648",176
+ExcelNumberFormat,1.1.0,.NET library to parse ECMA-376 number format strings and format values like Excel and other spreadsheet softwares.,"90,366,787",177
+Grpc.AspNetCore.Server.ClientFactory,2.70.0,HttpClientFactory integration the for gRPC .NET client when running in ASP.NET Core,"89,829,352",178
+Serilog.Sinks.Elasticsearch,10.0.0,Serilog sink for Elasticsearch,"88,825,474",179
+SkiaSharp.NativeAssets.Win32,3.116.1,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render...
+More information","87,349,416",180
+Pomelo.EntityFrameworkCore.MySql,8.0.3,Pomelo's MySQL database provider for Entity Framework Core.,"86,973,222",181
+SkiaSharp.NativeAssets.macOS,3.116.1,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render...
+More information","86,850,944",182
+CommonServiceLocator,2.0.7,The library provides an abstraction over IoC containers and service locators. Using the library allows an application to indirectly access the capabilities without relying on hard references.,"86,546,385",183
+NSwag.Annotations,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"86,291,593",184
+morelinq,4.4.0,"This project enhances LINQ to Objects with the following methods: Acquire, Aggregate (some EXPERIMENTAL), AggregateRight, Append, Assert, AssertCount, AtLeast, AtMost, Await (EXPERIMENTAL), AwaitCompletion...
+More information","86,121,605",185
+Common.Logging,3.4.1,Common.Logging library introduces a simple abstraction to allow you to select a specific logging implementation at runtime.,"85,935,844",186
+Grpc.AspNetCore,2.70.0,gRPC meta-package for ASP.NET Core,"85,484,729",187
+K4os.Compression.LZ4,1.3.8,Port of LZ4 compression algorithm for .NET,"84,821,568",188
+AspNetCore.HealthChecks.UI.Core,9.0.0,HealthChecks.UI.Core package containing builder and model definitions,"83,518,456",189
+SQLitePCLRaw.provider.dynamic_cdecl,2.1.11,"SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...
+More information","82,431,891",190
+Twilio,7.9.1,Twilio REST API helper library,"81,609,774",191
+IdentityModel.AspNetCore.OAuth2Introspection,6.2.0,ASP.NET Core authentication handler for validating tokens using OAuth 2.0 introspection,"81,351,337",192
+Common.Logging.Core,3.4.1,Common.Logging.Core contains the portable (PCL) implementation of the Common.Logging low-level abstractions common to all other Common.Logging packages.,"80,644,149",193
+MassTransit.RabbitMQ,8.4.0,"MassTransit RabbitMQ transport support; MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.","80,523,141",194
+Flurl.Http,4.0.2,"A fluent, testable HTTP client library.","80,369,551",195
+NSwag.Generation,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"78,523,343",196
+BouncyCastle.NetCore,2.2.1,a BouncyCastle redist package include .Net Framework and .Net Core/ Standard support,"78,452,998",197
+NSwag.AspNetCore,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"78,420,943",198
+Snappier,1.2.0,"A near-C++ performance implementation of the Snappy compression algorithm for .NET. Snappier is ported to C# directly
+      from the official C++ implementation, with the addition of support for the framed...
+More information","77,502,616",199
+Sentry,5.4.0,Official SDK for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.,"76,976,379",200
+Duende.IdentityServer,7.2.0,OpenID Connect and OAuth 2.0 Framework for ASP.NET Core,"13,923,714",201
+Duende.AccessTokenManagement,3.2.0,Automatic access token management for OAuth client credential flows,"6,351,607",202
+Humanizer,2.14.1,"Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities","76,158,569",203
+Humanizer.Core.uk,2.14.1,Humanizer Locale Ukrainian (uk),"76,011,593",204
+JsonSubTypes,2.0.1,Discriminated Json Subtypes Converter implementation for .NET,"75,978,948",205
+Serilog.Expressions,5.0.0,"An embeddable mini-language for filtering, enriching, and formatting Serilog
+      events, ideal for use with JSON or XML configuration.","74,664,382",206
+Humanizer.Core.fr,2.14.1,Humanizer Locale French (fr),"74,534,304",207
+SQLitePCLRaw.bundle_green,2.1.11,"This 'batteries-included' bundle brings in SQLitePCLRaw.core and the necessary stuff for certain common use cases.  Call SQLitePCL.Batteries.Init().  Policy of this bundle: iOS=system SQLite, others=e_sqlite3...
+More information","74,496,543",208
+Humanizer.Core.ru,2.14.1,Humanizer Locale Russian (ru),"74,343,854",209
+Humanizer.Core.de,2.14.1,Humanizer Locale German (de),"74,301,316",210
+Humanizer.Core.es,2.14.1,Humanizer Locale Spanish (es),"74,219,207",211
+Humanizer.Core.pt,2.14.1,Humanizer Locale Portuguese (pt),"74,029,013",212
+Humanizer.Core.zh-CN,2.14.1,Humanizer Locale Chinese (China) (zh-CN),"73,968,117",213
+Humanizer.Core.nl,2.14.1,Humanizer Locale Dutch (nl),"73,791,855",214
+Humanizer.Core.zh-Hans,2.14.1,Humanizer Locale Chinese (zh-Hans),"73,769,997",215
+Humanizer.Core.zh-Hant,2.14.1,Humanizer Locale Chinese (zh-Hant),"73,752,685",216
+Humanizer.Core.it,2.14.1,Humanizer Locale Italian (it),"73,729,466",217
+GitVersion.Tool,6.1.0,Derives SemVer information from a repository following GitFlow or GitHubFlow. This is the .NET Core Global Tool allowing usage of GitVersion from command line.,"73,660,359",218
+Humanizer.Core.ja,2.14.1,Humanizer Locale Japanese (ja),"73,612,502",219
+Humanizer.Core.pl,2.14.1,Humanizer Locale Polish (pl),"73,579,963",220
+Humanizer.Core.sv,2.14.1,Humanizer Locale Swedish (sv),"73,534,086",221
+NSwag.Generation.AspNetCore,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"73,522,041",222
+Humanizer.Core.nb-NO,2.14.1,Humanizer Locale Norwegian Bokmål (Norway) (nb-NO),"73,515,062",223
+Humanizer.Core.tr,2.14.1,Humanizer Locale Turkish (tr),"73,507,310",224
+Humanizer.Core.id,2.14.1,Humanizer Locale Indonesian (id),"73,497,679",225
+Humanizer.Core.he,2.14.1,Humanizer Locale Hebrew (he),"73,479,804",226
+Humanizer.Core.hr,2.14.1,Humanizer Locale Croatian (hr),"73,474,608",227
+Humanizer.Core.da,2.14.1,Humanizer Locale Danish (da),"73,472,674",228
+Humanizer.Core.cs,2.14.1,Humanizer Locale Czech (cs),"73,467,600",229
+Humanizer.Core.fr-BE,2.14.1,Humanizer Locale French (Belgium) (fr-BE),"73,465,496",230
+Humanizer.Core.fi-FI,2.14.1,Humanizer Locale Finnish (Finland) (fi-FI),"73,464,124",231
+Humanizer.Core.ro,2.14.1,Humanizer Locale Romanian (ro),"73,455,202",232
+Humanizer.Core.fa,2.14.1,Humanizer Locale Persian (fa),"73,448,824",233
+Humanizer.Core.el,2.14.1,Humanizer Locale Greek (el),"73,439,815",234
+Humanizer.Core.nb,2.14.1,Humanizer Locale Norwegian Bokmål (nb),"73,436,645",235
+Humanizer.Core.hu,2.14.1,Humanizer Locale Hungarian (hu),"73,431,187",236
+Humanizer.Core.uz-Cyrl-UZ,2.14.1,"Humanizer Locale Uzbek (Cyrillic, Uzbekistan) (uz-Cyrl-UZ)","73,420,798",237
+Humanizer.Core.sk,2.14.1,Humanizer Locale Slovak (sk),"73,405,307",238
+Humanizer.Core.sl,2.14.1,Humanizer Locale Slovenian (sl),"73,393,172",239
+Humanizer.Core.bn-BD,2.14.1,Humanizer Locale Bangla (Bangladesh) (bn-BD),"73,389,818",240
+Humanizer.Core.sr-Latn,2.14.1,Humanizer Locale Serbian (sr-Latn),"73,384,062",241
+Humanizer.Core.ar,2.14.1,Humanizer Locale Arabic (ar),"73,382,940",242
+Humanizer.Core.sr,2.14.1,Humanizer Locale Serbian (sr),"73,379,726",243
+Humanizer.Core.vi,2.14.1,Humanizer Locale Vietnamese (vi),"73,379,364",244
+Humanizer.Core.uz-Latn-UZ,2.14.1,"Humanizer Locale Uzbek (Latin, Uzbekistan) (uz-Latn-UZ)","73,377,696",245
+Humanizer.Core.bg,2.14.1,Humanizer Locale Bulgarian (bg),"73,364,213",246
+Humanizer.Core.af,2.14.1,Humanizer Locale Afrikaans (af),"73,271,712",247
+StackExchange.Redis.StrongName,1.2.6,"High performance Redis client, incorporating both synchronous and asynchronous usage.","72,886,133",248
+Humanizer.Core.lv,2.14.1,Humanizer Locale Latvian (lv),"72,792,330",249
+Castle.Windsor,6.0.0,"Castle Windsor is best of breed, mature Inversion of Control container available for .NET.","72,061,827",250
+KubernetesClient,16.0.2,Client library for the Kubernetes open source container orchestrator.,"71,766,360",251
+FSharp.Core,9.0.201,FSharp.Core redistributables from F# Tools version 13.9.201 For F# 9.0.  Contains code from the F# Software Foundation.,"71,565,572",252
+dotnet-ef,9.0.3,"Entity Framework Core Tools for the .NET Command-Line Interface.
+
+Enables these commonly used dotnet-ef commands:
+dotnet ef migrations add
+dotnet ef migrations list
+dotnet ef migrations script
+dotnet ef...
+More information","71,124,145",253
+AngleSharp.Css,0.17.0,Extends the CSSOM from the core AngleSharp library.,"70,769,655",254
+Swashbuckle.AspNetCore.Filters,8.0.2,Some additional useful filters for Swashbuckle.AspNetCore. This package replaces Swashbuckle.AspNetCore.Examples.,"70,674,214",255
+Humanizer.Core.ms-MY,2.14.1,Humanizer Locale Malay (Malaysia) (ms-MY),"70,341,582",256
+Humanizer.Core.mt,2.14.1,Humanizer Locale Maltese (mt),"70,307,499",257
+Oracle.ManagedDataAccess.Core,23.7.0,"Oracle Data Provider for .NET (ODP.NET) Core is a multi-platform ADO.NET driver that provides fast data access from Microsoft .NET (Core) clients to Oracle databases. ODP.NET Core consists of a single 100%...
+More information","69,421,686",258
+BouncyCastle,1.8.9,"The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols, it was developed by the Legion of the Bouncy Castle, a registered Australian Charity, with a little help! The...
+More information","69,372,102",259
+AspNetCore.HealthChecks.SqlServer,9.0.0,HealthChecks.SqlServer is the health check package for SqlServer.,"68,817,375",260
+SpecFlow.Tools.MsBuild.Generation,3.9.74,Package to enable the code-behind file generation during build time http://specflow.org/documentation/Generate-Tests-from-MsBuild/,"68,651,773",261
+Swashbuckle.Core,5.6.0,Seamlessly adds a Swagger to WebApi projects!,"68,598,516",262
+Serilog.Enrichers.Process,3.0.0,The process enricher for Serilog.,"68,294,679",263
+ExcelDataReader,3.7.0,"Lightweight and fast library written in C# for reading Microsoft Excel files (XLS, XLSX).","68,041,619",264
+Grpc,2.46.6,Metapackage for gRPC C#,"67,368,175",265
+Duende.IdentityModel.OidcClient,6.0.1,RFC8252 compliant and certified OpenID Connect and OAuth 2.0 client library for native applications,"23,138",266
+Fody,6.9.2,Extensible tool for weaving .net assemblies.,"67,359,970",267
+NPOI,2.7.3,.NET port of Apache POI,"66,950,124",268
+Humanizer.Core.hy,2.14.1,Humanizer Locale Armenian (hy),"66,752,403",269
+StyleCop.Analyzers.Unstable,1.2.0.556,An implementation of StyleCop's rules using Roslyn analyzers and code fixes,"66,553,161",270
+AWSSDK.CloudWatchLogs,3.7.410.11,"Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.","66,420,342",271
+ServiceStack.Text,8.6.0,".NET's fastest JSON, JSV and CSV Text Serializers. Fast, Light, Resilient.
+      Contains ServiceStack's high-performance text-processing powers, for more info see:...
+More information","66,307,558",272
+MassTransit.Abstractions,8.4.0,"MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.","66,176,209",273
+Humanizer.Core.az,2.14.1,Humanizer Locale Azerbaijani (az),"65,776,946",274
+Selenium.WebDriver.ChromeDriver,134.0.6998.16500,"Install Chrome Driver (Win32, macOS, macOS arm64, and Linux64) for Selenium WebDriver into your Unit Test Project.
+      ""chromedriver(.exe)"" is copied to the bin folder from the package folder when the build...
+More information","65,738,860",275
+protobuf-net.Core,3.2.46,"Provides simple access to fast and efficient ""Protocol Buffers"" serialization from .NET applications","65,323,171",276
+Handlebars.Net,2.1.6,Blistering-fast Handlebars.js templates in your .NET application.,"64,904,019",277
+Duende.IdentityServer.Storage,7.2.0,Storage interfaces and models for Duende IdentityServer,"14,813,219",278
+Shouldly,4.3.0,Shouldly - Assertion framework for .NET. The way asserting *Should* be,"64,835,897",279
+OpenTelemetry.Exporter.Console,1.11.2,Console exporter for OpenTelemetry .NET,"64,291,457",280
+Syncfusion.Licensing,29.1.33,"Syncfusion® licensing is a .NET library for validating the registered Syncfusion® license in an application at runtime. The Syncfusion® license must be registered in an application when using the Syncfusion®...
+More information","64,224,441",281
+dotnet-reportgenerator-globaltool,5.4.5,"ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov, or lcov into human readable reports in various formats. The reports...
+More information","64,162,844",282
+DiffEngine,15.11.0,Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.,"63,918,995",283
+Fractions,8.3.2,"The fraction data type consists of two BigInteger values for numerator and denominator. It implements various operations (addition, subtraction, multiplication, division and remainder) with operator overloads.","63,845,830",284
+HtmlSanitizer,9.0.876,Cleans HTML from constructs that can be used for cross-site scripting (XSS),"63,658,147",285
+NUnit.Analyzers,4.6.0,"This package includes analyzers and code fixes for test projects using NUnit 3+. The analyzers will mark wrong usages when writing tests, and the code fixes can be used to used to correct these usages. They...
+More information","63,541,323",286
+AutoFixture.AutoMoq,4.18.1,"This extension turns AutoFixture into an Auto-Mocking Container. The mock instances are created by Moq. To use it, add the AutoMoqCustomization to your Fixture instance. Read more at...
+More information","63,511,689",287
+Newtonsoft.Json.Schema,4.0.1,Json.NET Schema is a complete and easy-to-use JSON Schema framework for .NET,"63,468,547",288
+Google.Apis.Storage.v1,1.69.0.3723,"This is not the recommended package for working with Storage, please use the Google.Cloud.Storage.V1 package.
+      This Google APIs Client Library for working with Storage v1 uses older code generation, and is...
+More information","63,371,672",289
+DotNetZip,1.16.0,"A fork of the DotNetZip project without signing with a solution that compiles cleanly. This project aims to follow semver to avoid versioning conflicts. DotNetZip is a FAST, FREE class library and toolset for...
+More information","62,898,306",290
+Humanizer.Core.ko-KR,2.14.1,Humanizer Locale Korean (South Korea) (ko-KR),"62,415,689",291
+Humanizer.Core.th-TH,2.14.1,Humanizer Locale Thai (Thailand) (th-TH),"62,269,753",292
+Humanizer.Core.ku,2.14.1,Humanizer Locale Central Kurdish (ku),"62,220,935",293
+AWSSDK.Lambda,3.7.412.7,"AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources for you, making it easy to build applications that respond quickly to new information.","62,210,320",294
+EmptyFiles,8.8.0,A collection of minimal binary files.,"61,857,693",295
+Gherkin,32.0.1,"Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.","60,516,857",296
+NewRelic.Agent.Api,10.39.0,"The New Relic .NET Agent API supports custom error and metric reporting, and custom transaction parameters. If the agent is not installed or is disabled, method invocations of this API will have no effect. You...
+More information","60,241,791",297
+Google.Cloud.Storage.V1,4.11.0,"Recommended Google client library to access the Google Cloud Storage API. It wraps the Google.Apis.Storage.v1 client library, making common operations simpler in client code. Google Cloud Storage stores and...
+More information","60,058,703",298
+NUnit.ConsoleRunner,3.19.2,"This package includes the nunit3-console runner and test engine for version 3 of the NUnit unit-testing framework.
+
+      Any extensions, if needed, may be installed as separate packages.","59,700,076",299
+Hangfire,1.8.18,"An easy and reliable way to perform fire-and-forget, delayed and recurring, long-running, short-running, CPU or I/O intensive tasks inside ASP.NET applications. No Windows Service / Task Scheduler required....
+More information","59,647,132",300
+Refit.HttpClientFactory,8.0.0,Refit HTTP Client Factory Extensions,"59,373,519",301
+NSwag.Core.Yaml,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"59,373,136",302
+NJsonSchema.Yaml,11.2.0,"JSON Schema reader, generator and validator for .NET","58,775,853",303
+JWT,11.0.0,"Jwt.Net, a JWT (JSON Web Token) implementation for .NET","58,726,973",304
+SonarAnalyzer.CSharp,10.7.0.110445,"Roslyn analyzers that spot Bugs, Vulnerabilities and Code Smells in your code. For an even better overall experience, you can use SonarQube for IDE (Visual Studio, Rider, see...
+More information","58,396,438",305
+libphonenumber-csharp,9.0.2,"C# port of Google's common Java, C++ and Javascript library for parsing, formatting, storing and validating international phone numbers. https://github.com/google/libphonenumber","58,222,587",306
+NSwag.MSBuild,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"58,007,633",307
+NewId,4.0.1,NewId is an ordered 128-bit unique identifier generator using the Flake algorithm.,"57,952,061",308
+K4os.Hash.xxHash,1.0.8,xxHash hash implementation for .NET,"57,951,683",309
+K4os.Compression.LZ4.Streams,1.3.8,Port of LZ4 compression algorithm for .NET,"57,647,594",310
+SimpleInjector,5.5.0,"Simple Injector is an easy, flexible and fast dependency injection library that uses best practice to guide your solutions toward the pit of success.","57,629,310",311
+Amazon.Lambda.Serialization.SystemTextJson,2.4.4,Amazon Lambda .NET Core support - Serialization.Json with System.Text.Json.,"57,609,853",312
+BoDi,1.5.0,"A very simple IoC container, easily embeddable also as a source code.","56,218,791",313
+Humanizer.Core.is,2.14.1,Humanizer Locale Icelandic (is),"55,900,495",314
+GreenPipes,4.0.1,"GreenPipes, a pipes and filters library for the Task Parallel Library","55,560,075",315
+Mono.Cecil,0.11.6,"Cecil is a library written by Jb Evain to generate and inspect programs and libraries in the ECMA CIL format. It has full support for generics, and support some debugging symbol format. In simple English, with...
+More information","55,102,744",316
+Respond,1.4.2,"The goal of this script is to provide a fast and lightweight (3kb minified / 1kb gzipped) script to enable responsive web designs in browsers that don't support CSS3 Media Queries - in particular, Internet...
+More information","54,352,980",317
+Ben.Demystifier,0.4.1,High performance understanding for stack traces (Make error logs more productive),"53,980,523",318
+Ninject,3.3.6,"Ninject is a lightning-fast, ultra-lightweight dependency injector for .NET applications.","53,732,579",319
+NUglify,1.21.13,"NUglify provides minification and compression methods for CSS, JavaScript and HTML files for .NET","53,544,254",320
+NHibernate,5.5.2,"NHibernate is a mature, open source object-relational mapper for the .NET framework. It is actively developed, fully featured and used in thousands of successful projects.","53,480,668",321
+JunitXml.TestLogger,6.1.0,"Xml logger for JUnit v5 compliant xml report when test is running with ""dotnet test"" or ""dotnet vstest"".","53,168,997",322
+FakeItEasy,8.3.0,"It's faking amazing! The easy mocking library for .NET that works great in C# and VB.NET alike. No need to know the difference between a stub, a mock or a spy, everything's a fake! The easy to use, refactoring...
+More information","53,156,061",323
+Unity.Abstractions,5.11.7,Unity Container Public Abstractions,"52,988,736",324
+Nito.AsyncEx,5.1.2,A helper library for the Task-Based Asynchronous Pattern (TAP).,"52,816,115",325
+Swashbuckle,5.6.0,Seamlessly adds a Swagger to WebApi projects!,"51,997,521",326
+NServiceBus,9.2.6,"Build, version, and monitor better microservices with the most powerful service platform for .NET","51,690,669",327
+Datadog.Trace,3.13.0,Instrumentation library for Datadog APM.,"51,579,162",328
+AutoFixture.Xunit2,4.18.1,"By leveraging the data theory feature of xUnit.net, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).","51,554,374",329
+jQuery.UI.Combined,1.14.1,"jQuery UI is an open source library of interface components — interactions, full-featured widgets, and animation effects — based on the stellar jQuery javascript library . Each component is built according to...
+More information","51,432,860",330
+Validation,2.6.68,Method input validation and runtime checks that report errors or throw exceptions when failures are detected.,"51,407,700",331
+NetTopologySuite.IO.SqlServerBytes,2.1.0,A SQL Server IO module for NTS which works directly with the serialization format,"50,559,499",332
+xunit.runner.console,2.9.3,"Console runner for the xUnit.net framework. Capable of running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 4.5.2 or later, .NET Core 1.x, and .NET Core 2.x.","49,949,160",333
+SQLitePCLRaw.lib.e_sqlite3.v110_xp,1.1.15,"This package contains a platform-specific native code build of SQLite for use with SQLitePCL.raw.  To use this, you need SQLitePCLRaw.core as well as SQLitePCLRaw.provider.e_sqlite3.net45 or similar....
+More information","49,629,586",334
+SQLitePCLRaw.lib.e_sqlite3.linux,1.1.14,"This package contains a platform-specific native code build of SQLite for use with SQLitePCL.raw.  To use this, you need SQLitePCLRaw.core as well as SQLitePCLRaw.provider.e_sqlite3.net45 or similar....
+More information","49,626,527",335
+SQLitePCLRaw.lib.e_sqlite3.osx,1.1.14,"This package contains a platform-specific native code build of SQLite for use with SQLitePCL.raw.  To use this, you need SQLitePCLRaw.core as well as SQLitePCLRaw.provider.e_sqlite3.net45 or similar....
+More information","49,511,514",336
+Swashbuckle.AspNetCore.Filters.Abstractions,8.0.2,Some additional useful filters for Swashbuckle.AspNetCore. This package replaces Swashbuckle.AspNetCore.Examples.,"48,611,965",337
+Rebus,8.8.0,Rebus is a lean service bus for .NET,"48,548,794",338
+Stripe.net,47.4.0,"Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 3.1+, and .NET Framework 4.6.1+. (Official Library)","48,527,642",339
+App.Metrics.Abstractions,4.3.0,"App Metrics Core abstractions and interfaces for metric types, reporting, filtering and more.","48,029,246",340
+NCrontab,3.3.3,"NCrontab is crontab for all .NET runtimes supported by .NET Standard 1.0. It provides parsing and formatting of crontab expressions as well as calculation of occurrences of time based on a schedule expressed in...
+More information","47,982,654",341
+OpenTracing,0.12.1,"This library is a .NET implementation of the OpenTracing API. To fully understand this platform API, it's helpful to be familiar with the OpenTracing project and terminology more generally.
+
+For the time being,...
+More information","47,843,478",342
+Z.EntityFramework.Extensions.EFCore,9.103.7.2,"Microsoft.EntityFrameworkCore Extension Methods
+
+Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and...
+More information","47,556,421",343
+MessagePackAnalyzer,3.1.3,"Analyzers and source generator for MessagePack for C#. Verify rules for [MessagePackObject] and code fix for [Key]. A roslyn source generator for AOT or faster startup of applications that use the MessagePack...
+More information","46,878,658",344
+iTextSharp,5.5.13.4,"PLEASE NOTE: iTextSharp is EOL, and has been replaced by iText. Only security fixes will be added
+
+We HIGHLY recommend customers use iText for new projects, and to consider moving existing projects from...
+More information","46,554,104",345
+AWSSDK.SimpleEmail,3.7.402.66,"Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.","46,432,040",346
+App.Metrics.Formatters.Ascii,4.3.0,App Metrics Formatters for metrics and environment data to plain text.,"46,081,138",347
+GraphQL,8.4.1,GraphQL for .NET,"46,051,691",348
+App.Metrics.Core,4.3.0,"App Metrics core components. Contains metric types and default implementations for metric reporting, filtering and more.","45,961,747",349
+Elastic.Apm,1.31.0,"Elastic APM .NET Agent base package. This package provides core functionality for transmitting of all Elastic APM types and is a dependent package for all other Elastic APM package. Additionally this package...
+More information","45,559,675",350
+Iesi.Collections,4.1.1,"The System.Collections namespace in the .NET Framework provides a number of collection types that are extremely useful for manipulating data in memory. However, some specialized implementations of ISet are not...
+More information","45,527,171",351
+AWSSDK.KeyManagementService,3.7.400.123,"AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses Hardware Security Modules (HSMs) to protect the...
+More information","45,456,784",352
+Dapper.Contrib,2.0.78,"The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional ""dirty"" tracking of interface-based entities.","45,385,696",353
+Amazon.Lambda.APIGatewayEvents,2.7.1,Amazon Lambda .NET Core support - API Gateway package.,"45,357,093",354
+GraphQL-Parser,9.5.0,Library containing lexer and parser for GraphQL syntax,"45,287,315",355
+Google.Cloud.Iam.V1,3.4.0,gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.,"45,010,579",356
+Nito.AsyncEx.Interop.WaitHandles,5.1.2,Task wrappers for WaitHandles.,"44,777,240",357
+ReportGenerator,5.4.5,"ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov, or lcov into human readable reports in various formats. The reports...
+More information","44,440,603",358
+Nito.Cancellation,1.2.0,Helper types for working with cancellation tokens and sources.,"44,420,983",359
+Nito.AsyncEx.Oop,5.1.2,Interfaces and utility methods for combining async with OOP.,"44,302,520",360
+LaunchDarkly.EventSource,5.2.0,LaunchDarkly Server-Sent Events client,"44,235,552",361
+Sentry.Extensions.Logging,5.4.0,Official Microsoft.Extensions.Logging integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.,"44,180,227",362
+MiniProfiler.Shared,4.5.4,You shouldn't reference this - MiniProfiler's shared library for all frameworks,"44,179,673",363
+Unity.Container,5.11.11,Unity Core Engine,"44,176,629",364
+ExcelDataReader.DataSet,3.7.0,ExcelDataReader extension for reading Microsoft Excel files into System.Data.DataSet.,"44,164,059",365
+MathNet.Numerics,5.0.0,"Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .NET 5.0 or higher,...
+More information","43,578,902",366
+LinqKit.Core,1.2.8,"LinqKit.Core contains extensions for LINQ to SQL and Entity Framework. Note that Include(...), IAsync and IDbAsync are not supported.","43,378,050",367
+EFCore.BulkExtensions,9.0.1,"EntityFramework .Net EFCore EF Core Bulk Batch Extensions for Insert Update Delete Read (CRUD) operations on SQL Server, PostgreSQL, MySQL, SQLite","43,303,515",368
+Consul,1.7.14.7,Consul.NET is a .NET client library for the Consul HTTP API,"43,242,123",369
+Z.Expressions.Eval,6.2.8,"Evaluate, Compile and Execute C# code at runtime.
+
+Support: Dynamic LINQ, Extension Method, Expando Object, and more!
+
+Online Example: https://dotnetfiddle.net/COq6FC
+
+Include free and prime features.","43,070,775",370
+CompareNETObjects,4.83.0,What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.,"43,049,146",371
+SQLitePCLRaw.provider.e_sqlite3.netstandard11,1.1.14,"A SQLitePCL.raw 'provider' bridges the gap between SQLitePCLRaw.core and a particular instance of the native SQLite library.  Install this package in your app project and call SQLitePCL.raw.SetProvider(new...
+More information","43,045,696",372
+App.Metrics.Concurrency,4.3.0,"Provides useful structures for performing efficient concurrent operations. Original Project: https://github.com/etishor/ConcurrencyUtilities, including a port of Java's LongAdder and Striped64 classes","43,045,086",373
+dotnet-dump,9.0.607501,Diagnostic dump collect and analyze tool,"42,847,961",374
+jose-jwt,5.1.1,"Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT), JSON Web Encryption (JWE) and JSON Web Key (JWK) Implementation for .NET 
+
+Ultimate Javascript Object Signing and Encryption (JOSE), JSON...
+More information","42,844,247",375
+AspNetCore.HealthChecks.Redis,9.0.0,HealthChecks.Redis is the health check package for Redis.,"42,777,245",376
+Automatonymous,5.1.3,"Automatonymous, an open source state machine library, usable with MassTransit","42,232,892",377
+Utf8Json,1.3.7,"Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).","41,799,282",378
+FastMember,1.5.0,"In .NET reflection is slow... well, kinda slow. If you need access to the members of an arbitrary type, with the type and member-names known only at runtime - then it is frankly hard (especially for DLR types)....
+More information","41,732,656",379
+ServiceStack.Common,8.6.0,"#Script, Virtual File System, SimpleContainer and Common library for ServiceStack projects.","41,040,704",380
+HotChocolate.Language,15.1.3,Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.,"40,952,181",381
+Octokit,14.0.0,An async-based GitHub API client library for .NET and .NET Core,"40,897,445",382
+DogStatsD-CSharp-Client,8.0.0,A DogStatsD client for C#. DogStatsD is an extension of the StatsD metric server for use with Datadog. For more information visit http://datadoghq.com.,"40,721,905",383
+HotChocolate.Utilities,15.1.3,Contains internal helper classes and utilities used by the Hot Chocolate GraphQL type system and the GraphQL query execution engine.,"40,713,424",384
+Docker.DotNet,3.125.15,"Docker.DotNet is a library that allows you to interact with the Docker Remote API programmatically with fully asynchronous, non-blocking and object-oriented code in your .NET applications.","40,707,466",385
+AspNetCore.HealthChecks.Uris,9.0.0,HealthChecks.Uris is a simple health check package for Uri groups.,"40,583,391",386
+BenchmarkDotNet,0.14.0,Powerful .NET library for benchmarking,"40,522,408",387
+Sentry.AspNetCore,5.4.0,Official ASP.NET Core integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.,"40,456,809",388
+OpenTelemetry.Instrumentation.Runtime,1.11.1,.NET runtime instrumentation for OpenTelemetry .NET.,"40,417,472",389
+Asp.Versioning.Abstractions,8.1.0,The abstractions library for API versioning.,"40,317,970",390
+HotChocolate.Abstractions,15.1.3,Contains common abstractions used between the Hot Chocolate GraphQL type system and the GraphQL query execution engine.,"40,159,066",391
+Asp.Versioning.Http,8.1.0,A service API versioning library for Microsoft ASP.NET Core.,"40,003,321",392
+dotnet-sonarscanner,10.1.1,The SonarScanner for .NET allows easy analysis of any .NET project with SonarCloud/SonarQube.,"39,943,526",393
+MassTransit.Extensions.DependencyInjection,7.3.1,MassTransit Microsoft.Extensions.DependencyInjection support; MassTransit is a message-based distributed application framework for .NET http://masstransit-project.com,"39,785,728",394
+App.Metrics.Formatters.Json,4.3.0,App Metrics Formatters for metrics  and environment data to JSON using Newtonsoft.Json.,"39,702,876",395
+App.Metrics,4.3.0,App Metrics is an open-source .NET Standard library used to record application metrics.,"39,607,245",396
+dbup-core,6.0.4,"DbUp makes it easy to deploy and upgrade SQL Server databases by running change scripts. This is the core library and should be used in conjunction with the database specific package (eg dbup-sqlserver,...
+More information","39,566,119",397
+QRCoder,1.6.0,"QRCoder is a simple library, written in C#.NET, which enables you to create QR codes.","39,553,266",398
+Amazon.Lambda.SQSEvents,2.2.0,Amazon Lambda .NET Core support - SQSEvents package.,"39,522,630",399
+Quartz.Extensions.DependencyInjection,3.14.0,Quartz.NET Microsoft.Extensions.DependencyInjection integration; Quartz Scheduling Framework for .NET,"38,938,665",400
+Asp.Versioning.Mvc,8.1.0,A service API versioning library for Microsoft ASP.NET Core MVC.,"38,816,366",401
+HotChocolate.Types,15.1.3,Contains the Hot Chocolate GraphQL type system.,"38,685,319",402
+HotChocolate.Language.SyntaxTree,15.1.3,This package contains the abstract syntax tree that is used by the Hot Chocolate parsers.,"38,551,810",403
+Amazon.JSII.Runtime,1.110.0,.NET client for jsii runtime,"38,342,604",404
+Amazon.Extensions.Configuration.SystemsManager,6.2.2,.NET Configuration Extensions for AWS Systems Manager,"38,179,763",405
+GreenDonut,15.1.3,"GreenDonut is a port of facebook's DataLoader utility, written in C# for .NET Core and .NET Framework.","38,080,100",406
+Z.EntityFramework.Plus.EFCore,9.103.7.2,"Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+
+**IMPORTANT**
+- For EF Core 9.x, use the latest EF...
+More information","37,959,576",407
+Google.LongRunning,3.3.0,gRPC services for the Google Long Running Operations API. This library is typically used as a dependency for other API client libraries.,"37,815,337",408
+Mapster,7.4.0,"A fast, fun and stimulating object to object mapper. Kind of like AutoMapper, just simpler and way, way faster.","37,809,596",409
+HarfBuzzSharp,8.3.0.1,HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.,"37,780,852",410
+Antlr3.Runtime,3.5.1,"The runtime library for parsers generated by the C# target of ANTLR 3. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.","37,775,690",411
+dotnet-xunit,2.3.1,".NET CLI SDK runner for the xUnit.net framework. Supports .NET 4.5.2 or later, .NET Core 1.x, and .NET Core 2.x.","37,627,739",412
+LaunchDarkly.Cache,1.0.2,LaunchDarkly .NET Cache Library,"37,036,541",413
+Enums.NET,5.0.0,Enums.NET is a high-performance type-safe .NET enum utility library,"36,832,939",414
+SpecFlow.Internal.Json,1.0.8,A really simple C# JSON parser.,"36,710,628",415
+LaunchDarkly.ServerSdk,8.7.0,LaunchDarkly Server-Side .NET SDK,"36,705,326",416
+HotChocolate.Language.Utf8,15.1.3,This package contains the UTF8 based parsers of Hot Chocolate.,"36,601,174",417
+HotChocolate.Language.Visitors,15.1.3,This package contains the UTF8 based parsers of Hot Chocolate.,"36,555,662",418
+Perfolizer,0.4.0,Performance analysis toolkit,"36,477,698",419
+StructureMap,4.7.1,The Original IoC Container for .Net,"36,271,099",420
+Lucene.Net,3.0.3,"Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users.
+	This package contains only the core Lucene.Net assembly.","36,173,522",421
+AWSSDK.CloudWatch,3.7.402.71,"Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.","36,168,145",422
+TencentCloudSDK.Common,3.0.1212,Tencent Cloud API 3.0 SDK for .NET,"36,154,841",423
+ServiceStack.Interfaces,8.6.0,"Lightweight and implementation-free interfaces for DTO's, providers and adapters.","36,045,348",424
+LazyCache,2.4.0,"Lazy cache is a simple, thread safe, in-memory caching library that makes it easy to add high performance caching to your dotnet app.","35,930,739",425
+OctoPack,3.6.5,"Octopus Deploy is an automated deployment tool powered by NuGet. This tool adds a post-build activity to your Visual Studio project, so that an Octopus-compatible NuGet package is produced in the Bin directory...
+More information","35,500,960",426
+BenchmarkDotNet.Annotations,0.14.0,Powerful .NET library for benchmarking,"35,486,991",427
+NLog.Schema,5.4.0,"XSD file to enables Intellisense(TM) when editing NLog configuration files, for example in Visual Studio.  
+
+Notes:
+- Extensions could report XSD errors. Those errors could be ignored safely.  
+- Unfortunately...
+More information","35,317,524",428
+Duende.IdentityServer.AspNetIdentity,7.2.0,ASP.NET Core Identity Integration for Duende IdentityServer,"8,212,568",429
+GraphQL.Client,6.1.0,A GraphQL Client for .NET Standard,"35,226,896",430
+HotChocolate.Subscriptions,15.1.3,Contains Hot Chocolate GraphQL subscriptions abstractions.,"35,069,187",431
+RedLock.net,2.3.2,An implementation of the Redlock distributed lock algorithm,"34,909,605",432
+Apache.Avro,1.12.0,"Avro provides:
+
+      Rich data structures.
+      A compact, fast, binary data format.
+      A container file, to store persistent data.
+      Remote procedure call (RPC).
+      Simple integration with dynamic...
+More information","34,891,070",433
+AWSSDK.Kinesis,3.7.402.100,"Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.","34,743,494",434
+Quartz.Extensions.Hosting,3.14.0,Quartz.NET Generic Host integration; Quartz Scheduling Framework for .NET,"34,427,630",435
+Autofac.WebApi2,6.1.1,Autofac integration for ASP.NET WebAPI.,"34,425,483",436
+SkiaSharp.NativeAssets.Linux,3.116.1,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render...
+More information","34,348,716",437
+HotChocolate.Fetching,15.1.3,Package Description,"34,288,668",438
+EFCore.NamingConventions,9.0.0,Naming Conventions for Entity Framework Core Tables and Columns.,"34,233,710",439
+HotChocolate.Validation,15.1.3,Package Description,"34,210,591",440
+HotChocolate,15.1.3,Contains the Hot Chocolate GraphQL query execution engine and query validation.,"34,161,350",441
+HotChocolate.Execution,15.1.3,Package Description,"34,142,247",442
+NUnit.Extension.NUnitV2ResultWriter,3.8.0,"This extension allows NUnit to create result files in the V2 format, which is used by many CI servers.","34,021,759",443
+Markdig,0.40.0,"A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET with 20+ builtin extensions (pipetables, footnotes, definition lists... etc.)","33,993,876",444
+AWSSDK.CognitoIdentityProvider,3.7.407.18,"You can create a user pool in Amazon Cognito Identity to manage directories and users. You can authenticate a user to obtain tokens related to user identity and access policies. This API reference provides...
+More information","33,940,186",445
+RazorEngine,3.10.0,RazorEngine - A Templating Engine based on the Razor parser.,"33,791,701",446
+Aspose.PDF,25.3.0,"Aspose.PDF for .NET is a PDF document creation and manipulation component that enables your .NET applications to read, write and manipulate existing PDF documents without using Adobe Acrobat. It also allows you...
+More information","33,653,239",447
+FluentMigrator,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","33,469,477",448
+SkiaSharp.NativeAssets.Linux.NoDependencies,3.116.1,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render...
+More information","33,452,799",449
+PDFsharp,6.1.1,"PDFsharp is the Open Source library for creating and modifying PDF documents using .NET. It has an easy-to-use API that allows developers to generate or modify PDF files programmatically. PDFsharp can be used...
+More information","33,433,207",450
+AspNetCore.HealthChecks.UI,9.0.0,HealthChecks.UI is a ASP.NET Core UI viewer of ASP.NET Core HealthChecks. For more information see https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks,"33,346,166",451
+FluentFTP,52.1.0,"An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Directory listing parsing, File hashing/checksums, File...
+More information","33,273,228",452
+NodaTime.Serialization.JsonNet,3.2.0,Provides serialization support between Noda Time and Json.NET.,"33,183,893",453
+NUnit.Extension.TeamCityEventListener,1.0.9,"This extension sends specially formatted messages about test progress to TeamCity as each test executes, allowing TeamCity to monitor progress.","33,079,404",454
+Xunit.SkippableFact,1.5.23,"Make your Xunit test methods self-determine to report a ""skipped"" result. Useful for such cases as ""not supported on this platform"" results or other environmental inputs.","33,003,878",455
+Momentum.Pm.PortalApi,5.20.0.634,Client for Momentum PM Portal-API,"32,901,775",456
+EasyNetQ,7.8.0,A nice .NET API for RabbitMQ,"32,832,498",457
+NUnit.Extension.NUnitProjectLoader,3.8.0,"This extension allows the engine to run NUnit projects, which have a file extension of '.nunit'.","32,827,004",458
+GraphQL.Primitives,6.1.0,GraphQL basic types,"32,712,659",459
+Cronos,0.9.0,A fully-featured .NET library for parsing cron expressions and calculating next occurrences that was designed with time zones in mind and correctly handles daylight saving time transitions.,"32,640,221",460
+NUnit.Extension.NUnitV2Driver,3.9.0,This extension allows NUnit to load and run tests compiled against earlier versions of the NUnit framework. Versions 2.0 through 2.7 are supported.,"32,619,268",461
+NUnit.Extension.VSProjectLoader,3.9.0,"This extension allows NUnit to recognize and load solutions and projects in Visual Studio format. It supports files of type .sln, .csproj, .vbproj, .vjsproj, .vcproj and .fsproj.","32,612,077",462
+Confluent.SchemaRegistry,2.8.0,A .NET Client for Confluent Schema Registry,"32,515,633",463
+AspNetCore.HealthChecks.NpgSql,9.0.0,HealthChecks.NpgSql is a health check for Postgress Sql.,"32,479,516",464
+Iced,1.21.0,"iced is a blazing fast and correct x86 (16/32/64-bit) instruction decoder, disassembler and assembler written in C#.
+
+- 👍 Supports all Intel and AMD instructions
+- 👍 Correct: All instructions are tested and...
+More information","32,405,309",465
+Irony.NetCore,1.1.11,"Irony.NetCore is a .NET Core compatible version of the Irony framework initially developed and maintained by Roman Ivantsov. Irony is a development kit for implementing languages on .NET platform. In Irony the...
+More information","32,394,010",466
+Constructs,10.4.2,A programming model for software-defined state (Stability: Stable),"32,239,374",467
+GraphQL.Client.Abstractions,6.1.0,Abstractions for GraphQL.Client,"32,235,934",468
+MiniProfiler.AspNetCore,4.5.4,"Lightweight mini-profiler, designed for ASP.NET Core (not System.Web) websites","32,186,284",469
+AspNetCore.HealthChecks.Rabbitmq,9.0.0,HealthChecks.RabbitMQ is the health check package for RabbitMQ.Client.,"32,102,021",470
+GraphQL.Client.Abstractions.Websocket,6.1.0,Abstractions for the Websocket transport used in GraphQL.Client,"32,070,587",471
+OneOf,3.0.271,"F# style discriminated unions for C#, using a custom type OneOf<T0, ... Tn> which holds a single value and has a .Match(...) method on it for exhaustive matching. Simple but powerful.","31,798,647",472
+Splat,15.3.1,A library to make things cross-platform that should be.,"31,776,117",473
+Asp.Versioning.Mvc.ApiExplorer,8.1.0,The API Explorer extensions for ASP.NET Core API Versioning.,"31,727,487",474
+Cucumber.Messages,27.0.2,JSON schema-based messages for Cucumber's inter-process communication,"31,712,092",475
+HotChocolate.Types.CursorPagination,15.1.3,Contains middleware and types for cursor based pagination.,"31,577,928",476
+knockoutjs,3.5.1,"A JavaScript MVVM library to help you create rich, dynamic user interfaces with clean maintainable code","31,525,956",477
+Superpower,3.0.0,A parser combinator library for C#,"31,392,141",478
+Castle.Core.AsyncInterceptor,2.1.0,AsyncInterceptor is an extension to Castle DynamicProxy to simplify the development of interceptors for asynchronous methods.,"31,380,153",479
+Hangfire.NetCore,1.8.18,".NET Core's Worker Service host support for Hangfire, a background job framework for .NET applications.","31,371,896",480
+Google.Api.Gax.Grpc.GrpcCore,3.7.0,Implementation of the GAX GrpcAdapter abstract class based on Grpc.Core,"31,367,308",481
+Amazon.Lambda.Serialization.Json,2.2.4,Amazon Lambda .NET Core support - Serialization.Json package.,"31,331,459",482
+Volo.Abp.Core,9.1.1,Package Description,"31,173,877",483
+LaunchDarkly.Logging,2.0.0,LaunchDarkly logging abstraction,"31,142,802",484
+Topshelf,4.3.0,"Topshelf is an open source project for hosting services without friction. By referencing Topshelf, your console application *becomes* a service installer with a comprehensive set of command-line options for...
+More information","31,114,059",485
+Google.Cloud.PubSub.V1,3.23.0,"Recommended Google client library to access the Google Cloud Pub/Sub API, which provides reliable, many-to-many, asynchronous messaging between applications.","31,104,018",486
+LaunchDarkly.CommonSdk,7.0.0,LaunchDarkly common code for .NET and Xamarin clients,"30,970,673",487
+Mapster.Core,1.2.1,Lightweight library for Mapster and Mapster CodeGen,"30,950,927",488
+XLParser,1.7.5,A parser for Excel formulas,"30,913,521",489
+SharpYaml,2.1.1,"A YAML portable .NET library. providing parsing and serialization of object graphs, compatible with CoreCLR.","30,778,329",490
+DotNetSeleniumExtras.WaitHelpers,3.11.0,"This package provides an implementation of the ExpectedConditions class for use with WebDriverWait in .NET, replacing the implementation originally provided by the Selenium project.","30,758,963",491
+NUnit.Console,3.19.2,"This package includes the nunit3-console runner and test engine for version 3 of the NUnit unit-testing framework.
+
+      The following extensions are included with this package:
+      * NUnitProjectLoader...
+More information","30,635,781",492
+HotChocolate.Types.OffsetPagination,15.1.3,Contains middleware and types for offset based pagination.,"30,622,614",493
+LaunchDarkly.InternalSdk,3.4.0,LaunchDarkly internal common code for .NET and Xamarin clients,"30,449,679",494
+App.Metrics.Extensions.DependencyInjection,4.3.0,Microsoft.Extensions.DependencyInjection (IServiceCollection) support for App Metrics.,"30,387,171",495
+LinqKit,1.3.8,LinqKit.EntityFramework contains extensions for LINQ to SQL and Entity Framework. Include(...) and IAsync are supported.,"30,153,867",496
+HarfBuzzSharp.NativeAssets.macOS,8.3.0.1,HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.,"30,151,320",497
+HarfBuzzSharp.NativeAssets.Win32,8.3.0.1,HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.,"30,136,368",498
+Prism.Core,9.0.537,"Prism provides an implementation of a collection of design patterns that are helpful in writing well structured and maintainable XAML applications, including MVVM, dependency injection, commanding, event...
+More information","30,076,975",499
+App.Metrics.AspNetCore.Abstractions,4.3.0,"App Metrics ASP.NET Core abstractions and interfaces for routing, HTTP response formatting and more.","29,724,171",500
+Serilog.Sinks.MSSqlServer,8.2.0,A Serilog sink that writes events to Microsoft SQL Server and Azure SQL,"29,606,276",501
+MiniProfiler.AspNetCore.Mvc,4.5.4,"Lightweight mini-profiler, designed for ASP.NET Core MVC (*not* System.Web) websites","29,563,301",502
+Remotion.Linq.EagerFetching,2.2.0,Allows LINQ providers based on re-linq Frontend to support eager fetching.,"29,477,456",503
+HotChocolate.Subscriptions.InMemory,15.1.3,Contains an in-memory implementation for a Hot Chocolate GraphQL subscription provider.,"29,453,408",504
+HotChocolate.AspNetCore,15.1.3,"This package contains the GraphQL ASP.NET Core middleware for Hot Chocolate. Moreover, this package includes the Nitro middleware, which provides you with our beloved GraphQL IDE middleware.","29,438,750",505
+NLog.Config,4.7.15,"NLog.config file to get started with configuring NLog.
+This package is not mandatory to get started with NLog: the configuration file can
+created manually (read specs here:...
+More information","29,380,660",506
+Serilog.Settings.AppSettings,3.0.0,XML configuration (System.Configuration <appSettings>) support for Serilog.,"29,333,093",507
+Duende.IdentityServer.EntityFramework.Storage,7.2.0,EntityFramework persistence layer for Duende IdentityServer,"9,360,265",508
+App.Metrics.AspNetCore.Core,4.3.0,App Metrics ASP.NET Core core components.,"29,222,223",509
+DotLiquid,2.3.197,DotLiquid is a templating system ported to the .NET framework from Ruby’s Liquid Markup.,"29,218,219",510
+StackExchange.Redis.Extensions.Core,11.0.0,"StackExchange.Redis.Extensions is a library that extends StackExchange.Redis allowing you a set of functionality needed by common applications.
+
+            To store complex data It requires one of the...
+More information","29,116,288",511
+Amazon.Lambda.Logging.AspNetCore,3.1.1,Amazon Lambda .NET Core support - Logging ASP.NET Core package.,"29,067,799",512
+FluentMigrator.Abstractions,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","29,035,679",513
+App.Metrics.Extensions.Configuration,4.3.0,Microsoft.Extensions.Configuration support for App Metrics e.g. appsettings.json,"29,030,772",514
+AWS.Logger.Core,3.3.3,AWS Core logging library used to send logging messages to Amazon CloudWatch Logs,"29,013,957",515
+SpecFlow.NUnit,3.9.74,Package to use SpecFlow with NUnit 3.13 and later,"29,004,707",516
+MicroElements.Swashbuckle.FluentValidation,6.1.0,Swagger ISchemaFilter that uses FluentValidation validators instead System.ComponentModel based attributes.,"28,968,382",517
+itext7,9.1.0,"iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high- and low-level programming capabilities and the...
+More information","28,960,851",518
+DistributedLock.Core,1.0.8,Core interfaces and utilities that support the DistributedLock.* family of packages,"28,767,950",519
+Stef.Validation,0.1.1,"Argument validation like: Guard.NotNull, Guard.NotNullOrEmpty, Guard.NotNullOrWhiteSpace, Guard.Condition en Guard.HasNoNulls.","28,704,312",520
+Aspose.Cells,25.3.0,"A powerful and fast library written in C# for manipulating and converting Excel(XLS, XLSX,XLSB), ODS, CSV,JSON and HTML files.","28,548,279",521
+Magick.NET-Q16-AnyCPU,14.5.0,"ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...
+More information","28,546,806",522
+Magick.NET.Core,14.5.0,"ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...
+More information","28,496,268",523
+Aspose.Words,25.3.0,"Aspose.Words for .NET is a cross-platform document processing library that allows developers to work with a variety of Microsoft Word, OpenOffice, Web, PDF, and image file formats. .NET developers can easily...
+More information","28,392,377",524
+Std.UriTemplate,2.0.3,Std.Uritemplate for .NET - Implementation of RFC 6570 (Level 4),"28,128,319",525
+Elastic.Apm.AspNetCore,1.31.0,Elastic APM for ASP.NET Core. This package contains auto instrumentation for ASP.NET Core. See: https://github.com/elastic/apm-agent-dotnet/tree/main/docs,"28,100,765",526
+NJsonSchema.Annotations,11.2.0,"JSON Schema reader, generator and validator for .NET","27,988,476",527
+Ardalis.GuardClauses,5.0.0,A simple package by @ardalis and @nimblepros with guard clause helper methods. See docs for how to extend using your own extension methods defined in your project.,"27,973,401",528
+Semver,3.0.0,A semantic version library fully compliant with v2.0.0 of the spec found at http://semver.org.,"27,878,419",529
+FirebaseAdmin,3.1.0,"Firebase Admin SDK enables server-side .NET developers to integrate Firebase into their
+      services and applications.","27,758,159",530
+SixLabors.ImageSharp.Drawing,2.1.5,"An extension to ImageSharp that allows the drawing of images, paths, and text.","27,700,423",531
+ZXing.Net,0.16.10,"ZXing.Net is a port of ZXing, an open-source, multi-format 1D/2D barcode image processing library originally implemented in Java.
+      It has been ported by hand with a lot of optimizations and improvements....
+More information","27,693,617",532
+Unity.Interception,5.11.1,Unity Interception,"27,644,731",533
+FluentMigrator.Runner,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","27,611,110",534
+App.Metrics.AspNetCore.Hosting,4.3.0,App Metrics ASP.NET Core Hosting provides extensions to configure App Metrics in an ASP.NET Core application.,"27,446,244",535
+Rg.Plugins.Popup,2.1.0,Plugin for Xamarin forms. Allows you to open any page as a popup.,"27,440,612",536
+Volo.Abp.Uow,9.1.1,Package Description,"27,280,953",537
+Destructurama.Attributed,5.1.0,Use attributes to control how complex types are logged to Serilog.,"27,262,190",538
+Volo.Abp.Data,9.1.1,Package Description,"27,252,201",539
+Volo.Abp.Security,9.1.1,Package Description,"27,238,076",540
+Roslynator.Analyzers,4.13.1,"A collection of 200+ analyzers for C#, powered by Roslyn.","27,203,516",541
+BCrypt.Net-Next,4.0.3,"A fixed, enhanced and namespace compatible version of BCrypt.Net port of jBCrypt implemented in C#. It uses a variant of the Blowfish encryption algorithm’s keying schedule, and introduces a work factor, which...
+More information","27,169,462",542
+Yarp.ReverseProxy,2.3.0,Reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET,"27,124,883",543
+EnterpriseLibrary.Common,6.0.1304,"The Enterprise Library Common assembly contains elements that are shared among multiple application blocks. By supplying a set of commonly used functions to all the application blocks, the Common assembly...
+More information","27,088,649",544
+Amazon.Lambda.Tools,5.12.4,Amazon.Lambda.Tools adds commands to the dotnet cli to deploy AWS Lambda functions.,"26,775,989",545
+Autofac.Extras.DynamicProxy,7.1.0,Autofac extension for enabling AOP in conjunction with Castle.,"26,760,217",546
+App.Metrics.AspNetCore.Endpoints,4.3.0,App Metrics ASP.NET Core Endpoints provides the ability to expose metrics and environment information as web endpoints.,"26,759,810",547
+dbup-sqlserver,6.0.0,DbUp makes it easy to deploy and upgrade Microsoft  SQL Server databases. This package adds SqlServer support.,"26,758,305",548
+RichardSzalay.MockHttp,7.0.0,Testing layer for Microsoft's HttpClient library,"26,726,708",549
+AutoMapper.Collection,11.0.0,"Collection Add/Remove/Update support for AutoMapper. AutoMapper.Collection adds EqualityComparison Expressions for TypeMaps to determine if Source and Destination type are equivalent to each other when mapping...
+More information","26,594,329",550
+Volo.Abp.Localization.Abstractions,9.1.1,Package Description,"26,566,578",551
+Testcontainers,4.3.0,Testcontainers for .NET is a library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.,"26,510,745",552
+FluentMigrator.Runner.Core,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","26,501,064",553
+HotChocolate.Types.Scalars.Upload,15.1.3,Contains the GraphQL Upload Scalar.,"26,456,800",554
+HotChocolate.Types.Mutations,15.1.3,This package provides helpers for creating GraphQL mutations.,"26,439,925",555
+AspNetCoreRateLimit,5.0.0,ASP.NET Core rate limiting middleware,"26,393,260",556
+Volo.Abp.Settings,9.1.1,Package Description,"26,356,742",557
+Volo.Abp.VirtualFileSystem,9.1.1,Package Description,"26,348,628",558
+AWSXRayRecorder.Core,2.15.0,The AWS X-Ray Recorder core runtime.,"26,328,041",559
+LiteDB,5.0.21,"LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile
+Signed by signpath.io from repository 'https://github.com/mbdavid/LiteDB' commit '391cc9318c5be6e56cb71b3ce14b1ed9cb324763' (see...
+More information","26,300,896",560
+ImpromptuInterface,8.0.6,A Lightweight Duck Casting Framework for dynamic C#,"26,294,176",561
+dotnet-serve,1.10.175,"A simple command-line HTTP server.
+
+This package was build from source code at https://github.com/natemcmaster/dotnet-serve/tree/fa21e93f390390cee5b6e5d440e9439a8b1b81f1","26,284,216",562
+Volo.Abp.Localization,9.1.1,Package Description,"26,126,355",563
+Volo.Abp.MultiTenancy,9.1.1,Package Description,"26,048,462",564
+MassTransit.AspNetCore,7.3.1,MassTransit hosting for ASP.NET Core; MassTransit is a message-based distributed application framework for .NET http://masstransit-project.com,"25,879,308",565
+AWSSDK.EC2,3.7.436.11,Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers.,"25,818,027",566
+Elastic.Apm.Extensions.Hosting,1.31.0,Elastic APM .NET Agent. This package offers integration with Microsoft.Extensions.Hosting.IHostBuilder for agent registration,"25,812,035",567
+Pomelo.JsonObject,2.2.1,MySQL provider for Entity Framework Core,"25,778,074",568
+FluentMigrator.Extensions.SqlServer,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,726,424",569
+EPPlus.Interfaces,8.0.0,Package Description,"25,634,199",570
+FluentMigrator.Runner.SqlServer,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,629,680",571
+Dynamitey,3.0.3,(pronounced dyna-mighty) flexes DLR muscle to do meta-mazing things in .net,"25,529,627",572
+FluentMigrator.Runner.Postgres,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,471,546",573
+WireMock.Net,1.7.4,"Lightweight Http Mocking Server for .Net, inspired by WireMock from the Java landscape.","25,453,479",574
+Castle.LoggingFacility,6.0.0,"Castle Windsor logging facility lets you easily inject loggers into your components. It offers integration with most popular 3rd party logging frameworks like log4net, NLog and Serilog (see Castle Core docs).","25,342,320",575
+Serilog.Enrichers.CorrelationId,3.0.1,Enrich logs with a unique ID so you can track logs for specific requests.,"25,335,416",576
+App.Metrics.AspNetCore.Tracking,4.3.0,App Metrics ASP.NET Core Tracking provides the ability to automatically collect typical web metrics from an ASP.NET Core application.,"25,335,402",577
+UAParser,3.1.47,A .net wrapper for the ua-parser library,"25,274,269",578
+Google.Apis.Bigquery.v2,1.69.0.3724,"This is not the recommended package for working with Bigquery, please use the Google.Cloud.BigQuery.V2 package.
+      This Google APIs Client Library for working with Bigquery v2 uses older code generation, and...
+More information","25,219,074",579
+HotChocolate.Utilities.Introspection,15.1.3,Contains an introspection client to download a GraphQL schema over HTTP.,"25,175,639",580
+FluentMigrator.Runner.Oracle,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,125,056",581
+Volo.Abp.ObjectExtending,9.1.1,Package Description,"25,113,456",582
+FluentMigrator.Runner.MySql,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,031,826",583
+FluentMigrator.Runner.SQLite,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","25,031,516",584
+AWSSDK.SSO,3.7.400.123,This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.,"24,965,713",585
+FluentMigrator.Runner.Db2,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","24,963,524",586
+Hellang.Middleware.ProblemDetails,6.5.1,"Error handling middleware, using RFC7807","24,958,021",587
+FluentMigrator.Runner.Firebird,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","24,945,874",588
+FluentMigrator.Runner.Redshift,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","24,940,741",589
+FluentMigrator.Runner.Hana,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","24,917,088",590
+Volo.Abp.Validation.Abstractions,9.1.1,Package Description,"24,738,921",591
+AWSSDK.CognitoIdentity,3.7.402.43,"Amazon Cognito is a service that makes it easy to save user data, such as app preferences or game state, in the AWS Cloud without writing any backend code or managing any infrastructure. With Amazon Cognito,...
+More information","24,652,962",592
+AWSSDK.SSOOIDC,3.7.401.1,This is an initial release of AWS Single Sign-On OAuth device code authorization service.,"24,597,475",593
+Auth0.Core,7.35.0,Auth0 .NET SDK,"24,387,758",594
+XPath2,1.1.5,This is an implementation of W3C XML Path Language (XPath) 2.0 for .NET based on standard XPathNavigator API.,"24,375,734",595
+Serilog.Sinks.Trace,4.0.0,The System.Diagnostics.Trace sink for Serilog.,"24,373,220",596
+Elastic.Apm.EntityFrameworkCore,1.31.0,Elastic APM for Entity Framework Core. This package contains auto instrumentation for Entity Framework Core. See: https://github.com/elastic/apm-agent-dotnet/tree/main/docs,"24,362,605",597
+App.Metrics.AspNetCore,4.3.0,App Metrics ASP.NET Core is a an open-source web framework allowing you to record typical web metrics and expose metrics and environment information over HTTP and more.,"24,280,252",598
+Handlebars.Net.Helpers,2.4.13,"Several Handlebars.Net helpers in the categories: 'Boolean', 'Constants', 'DateTime', 'Path', 'Enumerable', 'Environment', 'Math', 'Regex', 'String' and 'Urls'.","24,267,040",599
+WireMock.Net.Abstractions,1.7.4,"Commonly used models, enumerations and types.","24,237,843",600
+App.Metrics.Extensions.Hosting,4.3.0,Microsoft.Extensions.Hosting (IHostBuilder) support for App Metrics.,"24,233,246",601
+AWSSDK.IdentityManagement,3.7.405.1,"AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to...
+More information","24,209,721",602
+Ninject.Web.Common,3.3.2,Bootstrapper for web projects.,"24,173,604",603
+AsyncEnumerator,4.0.2,"Introduces IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), and ParallelForEachAsync()
+GitHub: https://github.com/Dasync/AsyncEnumerable
+
+PROBLEM SPACE
+
+Helps to (a) create an element provider, where...
+More information","24,098,540",604
+Volo.Abp.Threading,9.1.1,Package Description,"24,090,184",605
+MscrmTools.Xrm.Connection,1.2024.9.59,Provides Winforms control to connect to Microsoft Dynamics CRM / 365 for Customer Engagement and Microsoft Dataverse deployments,"24,022,725",606
+MockQueryable.Core,7.0.3,"Core package for MockQueryable extensions for mocking operations such ToListAsync, FirstOrDefaultAsync etc.
+			When writing tests for your application it is often desirable to avoid hitting the database. The...
+More information","23,885,117",607
+Serilog.Sinks.Http,9.1.1,A Serilog sink sending log events over HTTP.,"23,716,575",608
+Sentry.Serilog,5.4.0,Official Serilog integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.,"23,574,335",609
+Amazon.Lambda.AspNetCoreServer,9.0.4,Amazon.Lambda.AspNetCoreServer makes it easy to run ASP.NET Core Web API applications as AWS Lambda functions.,"23,567,475",610
+RandomDataGenerator.Net,1.0.18,"This is a configurable generator to create random data like Lorum Ipsum Text, Words, Text Patterns, First/Last Names, IP-Addresses, Guids, DateTime and more.","23,428,785",611
+Serilog.Formatting.Compact.Reader,4.0.0,Package Description,"23,426,586",612
+Serilog.Sinks.Datadog.Logs,0.5.5,Serilog Sink that sends log events to Datadog https://www.datadoghq.com/,"23,366,918",613
+NEST.JsonNetSerializer,7.17.5,NEST uses an internal serializer. This package enables serialization for your documents using your own custom Json.NET serializer,"23,349,912",614
+Oracle.ManagedDataAccess,23.7.0,"Managed Oracle Data Provider for .NET (ODP.NET) features optimized ADO.NET data access to the Oracle database for .NET Framework and is 100% managed code. ODP.NET allows developers to take advantage of advanced...
+More information","23,243,954",615
+JmesPath.Net,1.0.330,JmesPath.Net is a fully compliant JMESPATH parser.,"23,186,301",616
+Moment.js,2.30.1,"A lightweight JavaScript date library for parsing, manipulating, and formatting dates.","23,178,010",617
+Volo.Abp.Timing,9.1.1,Package Description,"23,155,976",618
+Scriban,6.0.0,"Scriban is a fast, powerful, safe and lightweight scripting language and engine for .NET, which was primarily developed for text templating with a compatibility mode for parsing liquid templates.","23,090,350",619
+BuildBundlerMinifier,3.2.449,"Bundles and minifies CSS, JS and HTML files","23,022,823",620
+PropertyChanged.Fody,4.1.0,Add property notification to all classes that implement INotifyPropertyChanged.,"22,987,207",621
+FluentMigrator.Extensions.Oracle,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","22,956,081",622
+Glob,1.1.9,A C# Glob library for .NET and .NET Core.,"22,881,199",623
+Serilog.Enrichers.Span,3.1.0,Enrich Serilog log events with properties from open telemetry spans.,"22,832,191",624
+Amazon.Lambda.ApplicationLoadBalancerEvents,2.2.0,Amazon Lambda .NET Core support - Application Load Balancer package.,"22,735,155",625
+SimMetrics.Net,1.0.5,"SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman).","22,731,420",626
+Handlebars.Net.Helpers.Core,2.4.13,Core functionality for Handlebars.Net.Helpers,"22,711,251",627
+OpenCover,4.7.1221,"An open source code coverage tool (branch and sequence point) for all .NET Frameworks 2 and above (including Silverlight). Also capable of handling 32 and 64 bit processes. Use ReportGenerator for best viewing...
+More information","22,691,151",628
+Google.Cloud.BigQuery.V2,3.11.0,"Recommended Google client library to access the BigQuery API. It wraps the Google.Apis.Bigquery.v2 client library, making common operations simpler in client code. BigQuery is a data platform for customers to...
+More information","22,672,380",629
+Refit.Newtonsoft.Json,8.0.0,Refit Serializers for Newtonsoft.Json,"22,647,961",630
+SkiaSharp.HarfBuzz,3.116.1,This package adds text shaping support to SkiaSharp via HarfBuzz.,"22,636,954",631
+Volo.Abp.Json,9.1.1,Package Description,"22,591,697",632
+prometheus-net.DotNetRuntime,4.4.1,"Exposes .NET core runtime metrics (GC, JIT, lock contention, thread pool, exceptions) using the prometheus-net package.","22,519,287",633
+Antlr4.Runtime.Standard,4.13.1,The .NET Core C# ANTLR 4 runtime from the ANTLR Organization,"22,479,862",634
+CloudNative.CloudEvents,2.8.0,CNCF CloudEvents SDK,"22,470,224",635
+GraphQL.NewtonsoftJson,8.4.1,JSON.NET serializer for GraphQL.NET,"22,427,829",636
+AWSSDK.CloudFormation,3.7.403.1,"AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.","22,390,794",637
+Volo.Abp.Validation,9.1.1,Package Description,"22,365,591",638
+Elastic.Apm.Extensions.Logging,1.31.0,"Elastic APM integration with Microsoft.Extensions.Logging.Configuration.
+      This package automatically captures logs on error level as APM errors and correlates those to APM traces when the APM agent is...
+More information","22,355,453",639
+NSwag.ApiDescription.Client,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"22,345,958",640
+NJsonSchema.CodeGeneration,11.2.0,"JSON Schema reader, generator and validator for .NET","22,300,756",641
+XPath2.Extensions,1.1.5,"Non-official extensions for XPath2.dll (generate-id, base64encode, base64decode, json-to-xml and json-to-xmlstring)","22,285,955",642
+AWSSDK.KinesisFirehose,3.7.402.38,Amazon Kinesis Firehose is a fully managed service for ingesting data streams directly into AWS data services such as Amazon S3 and Amazon Redshift.,"22,268,923",643
+IPNetwork2,3.1.743,"IPNetwork C# library take care of complex network, ip, ipv4, ipv6, netmask, cidr, subnet, subnetting, supernet and supernetting calculation for .Net developpers. It works with IPv4 and IPv6 as well. It is...
+More information","22,210,018",644
+Docker.DotNet.X509,3.125.15,Docker.DotNet.X509 is a library that allows you to use certificate authentication with a remote Docker engine programmatically in your .NET applications.,"22,180,657",645
+RestEase,1.6.4,"Easy-to-use typesafe REST API client library, which is simple and customisable.
+    
+Write a C# interface which describes your API, and RestEase generates an implementation you can call into.
+
+Source Generators...
+More information","22,175,601",646
+GraphQL.Client.Serializer.Newtonsoft,6.1.0,A serializer implementation for GraphQL.Client using Newtonsoft.Json as underlying JSON library,"22,117,573",647
+NJsonSchema.NewtonsoftJson,11.2.0,"JSON Schema reader, generator and validator for .NET","22,115,567",648
+Elastic.Apm.NetCoreAll,1.31.0,"Elastic APM .NET agent. This is a convenient package that automatically pulls in ASP.NET Core, and Entity Framework Core auto instrumentation with the Elastic APM .NET Agent. If your application uses the...
+More information","22,073,576",649
+Fluid.Core,2.21.0,"Fluid is a template engine based on the Liquid markup, with focus on performance and .NET programming patterns.","22,023,985",650
+Autofac.Mvc5,6.1.0,ASP.NET MVC 5 integration for Autofac.,"21,991,807",651
+VaultSharp,1.17.5.1,"The most comprehensive .NET Library for HashiCorp's Vault which is a modern secret management system.
+
+ * VaultSharp supports all Auth methods, all Secrets Engines and most System Apis supported by Vault.
+ *...
+More information","21,991,433",652
+LanguageExt.Core,4.4.9,"This library uses and abuses the features of C# to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself.","21,966,279",653
+FluentNHibernate,3.4.1,"Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.","21,900,130",654
+MsgPack.Cli,1.0.1,"MessagePack is fast, compact, and interoperable binary serialization format.
+This package provides MessagePack serialization/deserialization APIs. This pacakge also supports Mono, Xamarin, .NET Core and Unity.","21,865,949",655
+Nuke.Common,9.0.4,"The AKEless Build System for C#/.NET
+Signed by signpath.io from repository 'https://github.com/nuke-build/nuke' commit 'a20c3b752d0c9f533a6e2c21fee6325032cd3d70' (see contained AppVeyorSettings.json file for...
+More information","21,736,886",656
+AWSSDK.StepFunctions,3.7.403.66,AWS Step Functions is a web service that enables you to coordinate a network of computing resources across distributed components using state machines.,"21,690,517",657
+MockQueryable.EntityFrameworkCore,7.0.3,"Extension for mocking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync etc.
+			When writing tests for your application it is often desirable to avoid hitting the database. The extension...
+More information","21,685,822",658
+FluentMigrator.Runner.SqlServerCe,3.3.1,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","21,512,702",659
+JetBrains.dotCover.CommandLineTools,2024.3.6,Cross-platform .NET code coverage tool.,"9,434,981",660
+Blauhaus.Common.Abstractions,2.4.4,Package Description,"21,432,736",661
+FluentMigrator.Runner.SqlAnywhere,3.3.1,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","21,425,319",662
+Serilog.Extensions.Logging.File,3.0.0,Add file logging to ASP.NET Core apps with one line of code.,"21,381,321",663
+RazorLight,2.3.1,Use Razor to build your templates from strings / files / EmbeddedResources outside of ASP.NET MVC for .NET Core,"21,357,063",664
+Hangfire.PostgreSql,1.20.10,PostgreSql storage implementation for Hangfire (background job system for ASP.NET and aspnet core applications).,"21,345,668",665
+EcoCore,7.2.0.16525,https://wiki.mdriven.net/index.php/NugetProject,"21,342,815",666
+FluentMigrator.Extensions.SqlAnywhere,3.3.1,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","21,279,827",667
+Prism.Plugin.Popups,8.0.76,Prism Forms Plugin to provide Popup Navigation working with the Rg.Plugins.Popup library,"21,269,528",668
+RestSharp.Serializers.NewtonsoftJson,112.1.0,Simple REST and HTTP API Client,"21,247,617",669
+Elastic.Apm.Elasticsearch,1.31.0,Elastic APM for the Elasticsearch .NET clients. See: https://github.com/elastic/apm-agent-dotnet/tree/main/docs,"21,203,040",670
+Serilog.Filters.Expressions,2.1.0,Expression-based event filtering for Serilog.,"21,196,152",671
+OpenTelemetry.Exporter.Jaeger,1.5.1,Jaeger exporter for OpenTelemetry .NET,"21,187,127",672
+CSharpFunctionalExtensions,3.5.1,CSharpFunctionalExtensions - functional extensions for C#,"21,140,132",673
+AWSSDK.AppConfigData,3.7.400.123,"AWS AppConfig Data is a new service that allows you to retrieve configuration deployed by AWS AppConfig. See the AppConfig user guide for more details on getting started....
+More information","21,080,457",674
+Scriban.Signed,6.0.0,"Scriban is a fast, powerful, safe and lightweight scripting language and engine for .NET, which was primarily developed for text templating with a compatibility mode for parsing liquid templates.","21,026,533",675
+elmah.corelibrary,1.2.2,Core library for ELMAH (Error Logging Modules and Handlers) without any configuration.,"20,979,544",676
+AspNetCore.HealthChecks.MongoDb,9.0.0,HealthChecks.MongoDb is the health check package for MongoDb.,"20,977,013",677
+murmurhash,1.0.3,Provides a HashAlgorithm implementation of the Murmur3 algorithm,"20,840,086",678
+NetTopologySuite.Features,2.2.0,"A feature is a combination of spatial object and attribute data.
+      For this package attribute data is stored in AttributeTable objects.
+      These are combined with IGeometry objects to form a Feature....
+More information","20,820,854",679
+Mono.Posix.NETStandard,1.0.0,Provides functionality to access Posix/Unix features,"20,817,665",680
+MaxMind.Db,4.1.0,.NET reader for the MaxMind DB file format,"20,739,426",681
+Stateless,5.17.0,Create state machines and lightweight state machine-based workflows directly in .NET code,"20,733,889",682
+Grpc.Reflection,2.70.0,gRPC C# Server Reflection,"20,644,592",683
+Parlot,1.3.5,"Parlot is a fast, lightweight and simple to use .NET parser combinator.","20,638,806",684
+CorrelationId,3.0.1,ASP.NET Core correlation ID middleware for distributed microservices.,"20,577,401",685
+AWSSDK.CloudFront,3.7.404.58,"Amazon CloudFront is a content delivery web service. It integrates with other Amazon Web Services products to give developers and businesses an easy way to distribute content to end users with low latency, high...
+More information","20,340,550",686
+Swashbuckle.AspNetCore.Cli,8.0.0,Swashbuckle (Swagger) Command Line Tools,"20,261,582",687
+Plugin.Permissions,6.0.1,"Check to see if your users have granted or denied permissions for common permission groups on iOS and Android.
+			Additionally, you can request permissions with a simple cross-platform async/awaitified API.","20,253,637",688
+McMaster.Extensions.CommandLineUtils,4.1.1,"Command-line parsing API and utilities for console applications.
+
+Commonly used...
+More information","20,100,775",689
+Crc32.NET,1.2.0,"Fast version of Crc32 & Crc32C algorithms for .NET and .NET Core. It is up to 3x-5x times better than other ""fast"" implemenations. Code based on Crc32C.NET library.","20,096,149",690
+Abp,10.1.0,Abp,"19,944,695",691
+Json.More.Net,2.1.2,Provides extended functionality for the System.Text.Json namespace.,"19,867,895",692
+Polly.Extensions,8.5.2,Polly.Extensions adds support for dependency injection and telemetry for the Polly.Core library.,"19,866,314",693
+Volo.Abp.Auditing,9.1.1,Package Description,"19,794,101",694
+Handlebars.Net.Helpers.Json,2.4.13,Handlebars.Net.Helpers Json,"19,771,480",695
+Handlebars.Net.Helpers.XPath,2.4.13,Handlebars.Net.Helpers XPath,"19,708,962",696
+EntityFrameworkCore.SqlServer.HierarchyId.Abstractions,4.0.0,Common abstractions for using hierarchyid with EF Core,"19,692,879",697
+App.Metrics.Formatters.Prometheus,4.3.0,"App Metrics Formatting, formatting metrics data to Prometheus formats.","19,684,709",698
+Volo.Abp.EventBus.Abstractions,9.1.1,Package Description,"19,669,018",699
+MimeTypesMap,1.0.9,"Simple dictionary provides a few methods to lookup mime type/extension, generated From Apache's mime.types.","19,643,719",700
+Handlebars.Net.Helpers.Random,2.4.13,Handlebars.Net.Helpers Random,"19,624,029",701
+MathNet.Numerics.Signed,5.0.0,"Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .NET 5.0 or higher,...
+More information","19,599,683",702
+Handlebars.Net.Helpers.Xeger,2.4.13,Handlebars.Net.Helpers Xeger (Fare),"19,598,451",703
+MiniProfiler,4.5.4,"Lightweight mini-profiler, designed for ASP.NET (including MVC) (non-.NET Core) websites","19,575,861",704
+EntityFrameworkCore.SqlServer.HierarchyId,4.0.0,Adds hierarchyid support to the SQL Server EF Core provider,"19,574,470",705
+AWSSDK.RDS,3.7.410.61,"Amazon Relational Database Service (Amazon RDS) is a web service that makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while...
+More information","19,504,008",706
+WireMock.Org.Abstractions,1.7.4,"Commonly used interfaces, models, enumerations and types.","19,445,954",707
+Xam.Plugin.Media,6.0.2,Take or pick photos and videos from a cross platform API.,"19,428,966",708
+AWSXRayRecorder.Handlers.AwsSdk,2.13.0,This package contains libraries to trace AWSSDK requests.,"19,376,772",709
+Acr.UserDialogs,9.2.1,"A cross platform library that allows you to call for standard user dialogs like Alerts, Confirmations, Prompts, and more. Supports Android, iOS, and MacCatalyst","19,291,216",710
+Npgsql.Json.NET,9.0.3,"Json.NET plugin for Npgsql, allowing transparent serialization/deserialization of JSON objects directly to and from the database.","19,248,981",711
+SpecFlow.xUnit,3.9.74,Package to use SpecFlow with xUnit 2.4 and later,"19,194,495",712
+Elastic.Apm.GrpcClient,1.31.0,Package Description,"19,165,150",713
+Handlebars.Net.Helpers.DynamicLinq,2.4.13,Handlebars.Net.Helpers DynamicLinq,"19,154,232",714
+Moq.AutoMock,3.5.0,An auto-mocking container that generates mocks using Moq,"19,114,356",715
+Auth0.ManagementApi,7.35.0,Auth0 .NET SDK,"19,074,450",716
+Grpc.AspNetCore.Server.Reflection,2.70.0,Automatic discovery of services for Grpc.Reflection,"19,072,446",717
+Ical.Net,4.3.1,The most popular iCalendar (RFC 5545) class library for .NET.,"19,014,861",718
+PdfSharpCore,1.3.65,"PdfSharp for .NET Core
+
+PdfSharpCore is a partial port of PdfSharp.Xamarin for .NET Core Additionally MigraDoc has been ported as well (from version 1.32). Images have been implemented with ImageSharp from...
+More information","18,958,000",719
+Volo.Abp.EventBus,9.1.1,Package Description,"18,942,205",720
+OpenIddict.Abstractions,6.2.0,Abstractions and primitives used by the OpenIddict components.,"18,917,547",721
+Jint,4.2.1,Javascript interpreter for .NET.,"18,917,384",722
+Google.Protobuf.Tools,3.30.2,See project site for more info.,"18,819,145",723
+ServiceStack.Redis,8.6.0,"C# Redis Client for the worlds fastest distributed NoSQL datastore.
+      Byte[], String and POCO Typed clients.
+      Thread-Safe Basic and Pooled client managers included.","18,790,317",724
+Volo.Abp.Guids,9.1.1,Package Description,"18,768,190",725
+Quartz.Serialization.Json,3.14.0,Quartz.NET JSON Serialization Support; Quartz Scheduling Framework for .NET,"18,763,960",726
+FluentMigrator.Extensions.Postgres,7.1.0,"FluentMigrator is a database migration framework for .NET written in C#. The basic idea is that you can create migrations which are simply classes that derive from the Migration base class and have a Migration...
+More information","18,689,371",727
+Jaeger,1.0.3,Jaeger .NET Tracing,"18,684,882",728
+Handlebars.Net.Helpers.Humanizer,2.4.13,"Handlebars.Net.Helpers Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.","18,584,137",729
+AWSSDK.EventBridge,3.7.402.65,"Amazon EventBridge is a serverless event bus service that makes it easy to connect your applications with data from a variety of sources, including AWS services, partner applications, and your own...
+More information","18,569,315",730
+XunitXml.TestLogger,6.1.0,"Xml logger for xunit when test is running with ""dotnet test"" or ""dotnet vstest"".","18,558,022",731
+prometheus-net.AspNetCore.HealthChecks,8.2.1,ASP.NET Core Health Checks integration with Prometheus,"18,532,004",732
+HotChocolate.Language.Web,15.1.3,This package contains specialized parser utilities for the Hot Chocolate GraphQL server.,"18,437,801",733
+DocumentFormat.OpenXml.Framework,3.3.0,"The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:
+
+- High-performance generation of word-processing documents, spreadsheets, and...
+More information","18,407,995",734
+MockQueryable.Moq,7.0.3,"Extension for mocking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync etc.
+			When writing tests for your application it is often desirable to avoid hitting the database. The extension...
+More information","18,400,126",735
+Hangfire.MemoryStorage,1.8.1.1,A memory storage for Hangfire,"18,380,994",736
+MaxMind.GeoIP2,5.2.0,MaxMind GeoIP2 Database Reader and Web Service Client,"18,371,949",737
+HotChocolate.AspNetCore.Authorization,15.1.3,This package contains the ASP.NET Core authorization integrations for Hot Chocolate.,"18,349,305",738
+AspNetCore.HealthChecks.AzureServiceBus,9.0.0,HealthChecks.AzureServiceBus is the health check package for Azure Service Bus Queues and Topics.,"18,347,550",739
+Audit.NET,27.5.0,An extensible framework to audit executing operations in .NET and .NET Core.,"18,297,849",740
+Elastic.Apm.SqlClient,1.23.0,Elastic APM for System.Data.SqlClient and Microsoft.Data.SqlClient. This package contains auto instrumentation for SqlClient. See: https://github.com/elastic/apm-agent-dotnet/tree/main/docs,"18,290,357",741
+Prism.Forms,9.0.537,"Prism provides an implementation of a collection of design patterns that are helpful in writing well structured, maintainable, and testable XAML applications, including MVVM, dependency injection, commanding,...
+More information","18,273,888",742
+RavenDB.Client,7.0.1,RavenDB Client is the client library for accessing RavenDB,"18,256,436",743
+AspNetCore.HealthChecks.UI.InMemory.Storage,9.0.0,HealthChecks.UI.InMemory.Storage package contains the required classes to use InMemory provider in the UI,"18,225,371",744
+DotNetOpenAuth.Core,4.3.4.13329,"This package contains shared code for other NuGet packages, and contains no public API in and of itself.","18,215,670",745
+App.Metrics.AspNetCore.Routing,4.3.0,App Metrics ASP.NET Core Routing features such as exposing route templates to App Metrics for tagging request based metrics.,"18,194,586",746
+Spectre.Console,0.49.1,A library that makes it easier to create beautiful console applications.,"18,165,025",747
+Amazon.Lambda.TestUtilities,2.0.0,Amazon.Lambda.TestUtilties includes stub implementations of interfaces defined in Amazon.Lambda.Core and helper methods.,"18,127,313",748
+MongoDB.Driver.GridFS,2.30.0,GridFS Component of the Official MongoDB .NET Driver.,"18,119,057",749
+Volo.Abp.ObjectMapping,9.1.1,Package Description,"18,109,308",750
+EnterpriseLibrary.TransientFaultHandling,6.0.1304,"The Transient Fault Handling Application Block for Windows Azure (""Topaz"") provides a set of reusable and testable components for adding retry logic into your Windows Azure applications leveraging Windows Azure...
+More information","18,060,618",751
+xunit.runner.utility,2.9.3,"Includes the version-independent runner for xUnit.net to run both v1.9.2 and v2.0+ tests (xunit.runner.utility.*.dll). Supports .NET 3.5, .NET 4.5.2 or later, .NET Standard 1.1, .NET Standard 1.5, and .NET Core...
+More information","18,037,473",752
+sqlite-net-pcl,1.9.172,"SQLite-net is an open source and light weight library providing easy SQLite database storage for .NET, Mono, and Xamarin applications.
+      This version uses SQLitePCLRaw to provide platform independent...
+More information","17,939,449",753
+LibGit2Sharp.NativeBinaries,2.0.323,Native binaries for LibGit2Sharp,"17,925,238",754
+MQTTnet,5.0.1.1416,"MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker) and supports v3.1.0, v3.1.1 and v5.0.0 of the MQTT protocol.","17,897,873",755
+popper.js,1.16.1,A kickass library to manage your poppers,"17,866,776",756
+DiffPlex,1.7.2,DiffPlex is a diffing library that allows you to programatically create text diffs. DiffPlex is a fast and tested library.,"17,857,350",757
+JsonPointer.Net,5.3.1,JSON Pointer built on the System.Text.Json namespace,"17,854,499",758
+AutoMapper.Extensions.ExpressionMapping,8.0.0,Expression mapping (OData) extensions for AutoMapper,"17,833,878",759
+Sprache,2.3.1,"Sprache is a simple, lightweight library for constructing parsers directly in C# code.","17,775,212",760
+Elastic.CommonSchema,8.12.3,Maps Elastic Common Schema (ECS) to .NET types including (de)serialization using System.Text.Json,"17,774,813",761
+Volo.Abp.Ddd.Domain,9.1.1,Package Description,"17,759,145",762
+HotChocolate.Execution.Abstractions,15.1.3,Package Description,"17,743,874",763
+Auth0.AuthenticationApi,7.35.0,Auth0 .NET SDK,"17,680,801",764
+App.Metrics.AspNetCore.Mvc.Core,4.3.0,App Metrics ASP.NET Core MVC Core features such as metric tracking on controller actions using attribute routes.,"17,665,011",765
+NWebsec.AspNetCore.Core,3.0.1,This library provides shared functionality for the NWebsec ASP.NET Core security libraries.,"17,654,066",766
+DevExpress.Data,24.2.6,This package provides basic functionality for data-aware DevExpress controls.,"17,651,421",767
+Verify,28.16.0,Enables verification of complex models and documents.,"17,623,159",768
+Confluent.SchemaRegistry.Serdes.Avro,2.8.0,Provides an Avro Serializer and Deserializer for use with Confluent.Kafka with Confluent Schema Registry integration,"17,587,666",769
+Polly.RateLimiting,8.5.2,Polly.RateLimiting is a .NET resilience and transient-fault-handling library that allows developers to express resilience strategies using a Rate Limiter in a fluent and thread-safe manner.,"17,528,350",770
+PuppeteerSharp,20.1.3,Headless Browser .NET API,"17,506,975",771
+LazyCache.AspNetCore,2.4.0,ServiceCollection registrations for LazyCache to initialise the dependency injection collection and add enable IAppCache to be injected into your app,"17,505,920",772
+Nerdbank.GitVersioning,3.7.115,Stamps your assemblies with semver 2.0 compliant git commit specific version information and provides NuGet versioning information as well.,"17,386,962",773
+Elastic.Apm.MongoDb,1.31.0,Elastic APM integration with the MongoDB.Driver package.,"17,370,410",774
+LibGit2Sharp,0.31.0,"LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET","17,336,947",775
+AspNetCore.HealthChecks.AzureStorage,7.0.0,"HealthChecks.AzureStorage is the health check package for Blobs, Tables and Queues.","17,330,892",776
+AWSSDK.XRay,3.7.401.67,"AWS X-Ray helps developers analyze and debug distributed applications. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause...
+More information","17,321,561",777
+AWSSDK.ECS,3.7.408.59,"Amazon EC2 Container Service is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run distributed applications on a managed cluster of...
+More information","17,247,972",778
+SpecFlow.Plus.LivingDocPlugin,3.9.57,A plugin for SpecFlow to generate a shareable HTML Gherkin feature execution report (living documentation). Use together with SpecFlow.Plus.LivingDoc.CLI.,"17,227,229",779
+Parquet.Net,5.1.1,Fully managed Apache Parquet implementation.,"17,208,545",780
+AutoFixture.AutoNSubstitute,4.18.1,"This extension turns AutoFixture into an Auto-Mocking Container. The mock instances are created by NSubstitute. To use it, add the AutoNSubstituteCustomization to your Fixture instance.","17,205,524",781
+HotChocolate.Data,15.1.3,"Contains ready to use extensions for data management in HotChocolate. This includes filtering, projections and sorting","17,177,481",782
+Grpc.HealthCheck,2.70.0,gRPC C# Health Checking,"17,115,460",783
+Swashbuckle.AspNetCore.ReDoc,8.0.0,Middleware to expose an embedded version of Redoc from an ASP.NET Core application,"17,103,497",784
+App.Metrics.AspNetCore.Mvc,4.3.0,App Metrics ASP.NET Core MVC features such as metric tracking on controller actions using attribute routes.,"17,075,457",785
+NSubstitute.Analyzers.CSharp,1.0.17,Provides diagnostic analyzers to warn about incorrect usage of NSubstitute in C#.,"17,010,980",786
+TinyMapper,3.0.3,TinyMapper - a tiny and quick object mapper for .Net.,"16,962,913",787
+AutoBogus,2.13.1,A C# library complementing the Bogus generator by adding auto creation and population capabilities.,"16,912,545",788
+DotNetty.Common,0.7.6,DotNetty common routines,"16,878,659",789
+Examine,3.7.0,A Lucene.Net search and indexing implementation for Examine,"16,719,998",790
+Ninject.Web.Common.WebHost,3.3.2,ASP.NET extension for Ninject.Web.Common,"16,698,767",791
+Oracle.EntityFrameworkCore,9.23.60,Oracle Data Provider for .NET (ODP.NET) Entity Framework Core for Oracle Database.,"16,678,272",792
+CouchbaseNetClient,3.6.6,The Official Couchbase .NET SDK.,"16,667,427",793
+Polly.Caching.Memory,3.0.2,"Polly.Caching.Memory is a plug-in for the .NET OSS resilience library Polly, supporting Microsoft.Extensions.Caching.Memory.MemoryCache as a provider for Polly's CachePolicy.","16,608,253",794
+JsonDiffPatch.Net,2.3.0,JSON object diffs and reversible patching,"16,573,965",795
+NWebsec.AspNetCore.Middleware,3.0.0,NWebsec middleware for ASP.NET Core applications. NWebsec helps you set important security headers and detect potentially dangerous redirects. See project website for documentation.,"16,506,419",796
+Google.Cloud.Logging.V2,4.4.0,"Recommended Google client library to access the Google Cloud Logging API, which writes log entries and manages your logs, log sinks, and logs-based metrics.","16,496,681",797
+Cake,1.3.0,The Cake script runner.,"16,488,589",798
+DotNetty.Buffers,0.7.6,Buffer management in DotNetty,"16,483,972",799
+DotNetty.Transport,0.7.6,Transport model in DotNetty,"16,439,449",800
+NJsonSchema.CodeGeneration.CSharp,11.2.0,"JSON Schema reader, generator and validator for .NET","16,438,622",801
+IPAddressRange,6.1.0,"This library allows you to parse range of IP address string such as ""192.168.0.0/24"" and ""192.168.0.0/255.255.255.0"" and ""192.168.0.0-192.168.0.255"", and can contains check. This library supports both IPv4 and...
+More information","16,437,090",802
+HarfBuzzSharp.NativeAssets.Linux,8.3.0.1,HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.,"16,431,042",803
+IronPdf.Native.Chrome.Windows,2025.3.9,External methods which allow for interoperability between native and managed code,"16,413,356",804
+DotNetOpenAuth.OpenId.Core,4.3.4.13329,"This package contains shared code for other NuGet packages, and contains no public API in and of itself.","16,401,286",805
+Macross.Json.Extensions,3.0.0,"Macross Software Json extensions library.
+
+      Provides helpers & converters for the System.Text.Json API and push
+      stream types for the System.Net.Http API.
+
+      Commonly Used Types:...
+More information","16,387,375",806
+Dapr.Client,1.15.2,This package contains the reference assemblies for developing services using Dapr.,"16,382,970",807
+DotNetty.Codecs,0.7.6,General purpose codecs for DotNetty,"16,380,864",808
+ServiceStack.Client,8.6.0,"JSON, XML, CSV, JSV, SOAP and MQ Generic Service Clients.","16,372,128",809
+TeamCity.VSTest.TestAdapter,1.0.41,"Provides an integration with TeamCity for test frameworks.
+
+Usage:
+
+  - Create a test project, for example using the command line: dotnet new xunit
+  - Add the NuGet reference to this package","16,348,249",810
+Syncfusion.Pdf.Net.Core,29.1.33,"The Syncfusion® Essential PDF is a .NET standard PDF library that enables your .NET core applications to read, write, and manipulate existing PDF documents. It has various features such table creation, PDF form...
+More information","16,307,743",811
+Otp.NET,1.4.0,"An implementation of TOTP and HOTP which are commonly used for multi factor authentication by using a shared key between the client and the server to generate and verify one time use codes.
+
+For documentation...
+More information","16,291,916",812
+KubernetesClient.Models,12.0.16,Client library for the Kubernetes open source container orchestrator.,"16,274,616",813
+KubernetesClient.Basic,12.0.16,Client library for the Kubernetes open source container orchestrator.,"16,200,555",814
+Blauhaus.Common.Utils,2.4.4,Package Description,"16,165,076",815
+Gee.External.Capstone,2.3.0,"Capstone.NET is a .NET Core and a .NET Framework binding for the Capstone disassembly framework. It is written in C#, supports Capstone 4, and has a friendly and simple type safe API that is ridiculously easy...
+More information","16,156,974",816
+FluentAssertions.Json,8.0.0,Fluent Assertions extensions for Newtonsoft.Json,"16,139,451",817
+AnyOf,0.5.0,"Use the AnyOf<TFirst, TSecond, ...> type to handle multiple defined types as input parameters for methods.","16,112,575",818
+Amazon.CDK.CXAPI,2.186.0,Cloud executable protocol (Stability: Stable),"16,103,258",819
+linq2db,5.4.1,LINQ to DB is a data access technology that provides a run-time infrastructure for managing relational data as objects.,"16,089,598",820
+Hangfire.Console,1.4.3,Job console for Hangfire,"16,085,517",821
+Appium.WebDriver,7.2.0,Selenium Webdriver extension for Appium.,"16,081,675",822
+Akka,1.5.40,Canonical actor model implementation for .NET with local + distributed actors in C# and F#.,"16,061,840",823
+DotNetOpenAuth.OpenId.RelyingParty,4.3.4.13329,"Increase conversion rates to your web site by lowering the bar to create an account with your site,
+			by allowing customers to use accounts they already have with other sites, such as Google and Yahoo!","16,053,150",824
+Markdig.Signed,0.40.0,"A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET with 20+ builtin extensions (pipetables, footnotes, definition lists... etc.)","16,031,855",825
+DotNetOpenAuth.OAuth.Core,4.3.4.13329,"This package contains shared code for other NuGet packages, and contains no public API in and of itself.","16,002,284",826
+DinkToPdf,1.0.8,.NET Core P/Invoke wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.,"15,955,397",827
+RhinoMocks,3.6.1,"Rhino Mocks is using Castle Dynamic Proxy (http://www.castleproject.org/dynamicproxy/index.html) to handle proxying the types it needs to mock.
+The Dynamic Proxy project has been invaluable resource and made...
+More information","15,947,069",828
+Volo.Abp.ExceptionHandling,9.1.1,Package Description,"15,914,870",829
+HotChocolate.Authorization,15.1.3,This package contains the authorization abstractions for Hot Chocolate.,"15,853,800",830
+DotNetOpenAuth.OAuth.Consumer,4.3.4.13329,"Improve usability, reliability, conversion rates and security simultaneously by simply asking the user for permission to access their
+			data on 3rd party services rather than asking for their password.","15,842,873",831
+Volo.Abp.Authorization,9.1.1,Package Description,"15,804,704",832
+DotNetSeleniumExtras.PageObjects,3.11.0,"This package provides an implementation of the PageFactory for .NET, replacing the implementation originally provided by the Selenium project.","15,791,034",833
+Google.Apis.Sheets.v4,1.69.0.3694,"Google APIs Client Library for working with Sheets v4.
+
+      Product documentation is available at:
+      https://developers.google.com/sheets/
+
+      API reference documentation for this package is available...
+More information","15,789,146",834
+FileHelpers,3.5.2,Open Source library for automatic formatted file read/write operations www.filehelpers.net,"15,781,470",835
+OpenIddict.Core,6.2.0,"OpenIddict's core components, used to manage the applications, authorizations, scopes and tokens stored in the database.","15,758,546",836
+AntiXSS,4.3.0,"AntiXSS is an encoding library which uses a safe list approach to encoding. It provides Html, XML, Url, Form, LDAP, CSS, JScript and VBScript encoding methods to allow you to avoid Cross Site Scripting attacks....
+More information","15,717,998",837
+Dapper.SqlBuilder,2.1.66,"The Dapper SqlBuilder component, for building SQL queries dynamically.","15,708,527",838
+Google.Cloud.Logging.Type,4.2.0,Version-agnostic types for the Google Cloud Logging API.,"15,643,695",839
+Elastic.CommonSchema.Serilog,8.12.3,Serilog TextFormatter that formats log events in accordance with Elastic Common Schema (ECS).,"15,642,005",840
+PostSharp,2025.0.6,The #1 pattern-aware extension to C# and VB.,"15,629,407",841
+Serilog.Sinks.AwsCloudWatch,4.3.37,A Serilog sink that logs to AWS CloudWatch,"15,623,103",842
+Serilog.Sinks.ColoredConsole,3.0.1,"Now replaced by Serilog.Sinks.Console, please use that package instead. The colored console sink for Serilog","15,605,149",843
+TeamCity.ServiceMessages,4.1.1,This library provides read/write access to TeamCity Service messages. The documentation on service messages can be found at https://www.jetbrains.com/help/teamcity/service-messages.html,"15,573,556",844
+Minio,6.0.4,MinIO .NET SDK for Amazon S3 Compatible Cloud Storage.,"15,571,442",845
+DotNetty.Handlers,0.7.6,Application handlers for DotNetty,"15,569,443",846
+J2N,2.1.0,"J2N is a library that helps bridge the gap between .NET and Java. It provides components to assist with porting Java code to .NET, such as collections, adapters, and extensions. It contains some features from...
+More information","15,495,165",847
+Serilog.Enrichers.ClientInfo,2.1.2,"Enrich logs with client IP, CorrelationId and HTTP request headers.","15,494,039",848
+Nancy,2.0.0,"Nancy is a lightweight web framework for the .Net platform, inspired by Sinatra. Nancy aim at delivering a low ceremony approach to building light, fast web applications.","15,401,599",849
+dotnet-coverage,17.14.2,Code coverage tools.,"15,384,982",850
+CacheManager.Core,2.0.0,"CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. The Core library contains all base interfaces and...
+More information","15,366,555",851
+Amazon.CDK,1.204.0,AWS Cloud Development Kit Core Library (Stability: Stable),"15,362,673",852
+FastExpressionCompiler,5.0.3,FastExpressionCompiler is 10-40x times faster than Expression.Compile(),"15,307,771",853
+StackExchange.Redis.Extensions.Newtonsoft,11.0.0,"StackExchange.Redis.Extensions is a library that extends StackExchange.Redis allowing you a set of functionality needed by common applications.
+
+            To store complex data It requires one of the...
+More information","15,240,252",854
+Google.Apis.Drive.v3,1.69.0.3703,"Google APIs Client Library for working with Drive v3.
+
+      Product documentation is available at:
+      https://developers.google.com/drive/
+
+      API reference documentation for this package is available...
+More information","15,182,177",855
+MimeKitLite,4.11.0,"MimeKit is an Open Source library for creating and parsing MIME messages. It also supports parsing of Unix mbox files.
+
+      Unlike any other .NET MIME parser, MimeKit's parser does not need to parse string...
+More information","15,164,926",856
+NUnit.Runners,3.12.0,"This package is now obsolete and has been replaced by the NUnit.Console package.
+
+      It includes the nunit3-console runner and test engine for version 3 of the NUnit unit-testing framework.
+
+      The...
+More information","15,089,412",857
+NBuilder,6.1.0,"Through a fluent, extensible interface, NBuilder allows you to rapidly create test data, automatically assigning values to properties and public fields that are one of the built in .NET data types (e.g. ints...
+More information","15,060,982",858
+Respawn,6.2.1,Intelligent resetting for database tests,"15,051,698",859
+IoC.Container,1.3.8,"Simple, powerful and fast expressions based Inversion of Control container for .NET.","15,019,216",860
+ServiceStack,8.6.0,"ServiceStack is a simple and fast alternative to WCF, MVC and Web API in one cohesive framework for all your services and web apps that's intuitive and Easy to use!
+
+    To get started see:...
+More information","14,936,968",861
+Blauhaus.Common.ValueObjects,2.4.4,Package Description,"14,928,076",862
+BitMiracle.LibTiff.NET,2.4.660,.NET version of LibTiff library made by Bit Miracle,"14,893,406",863
+DevExpress.Xpo,24.2.6,"eXpress Persistent Objects (XPO) is an Object-Relational Mapping (ORM) tool that handles all aspects of database creation and object persistence, allowing you to concentrate on your application's business...
+More information","14,862,435",864
+log4net.Ext.Json,3.0.3,Enable JSON logging in log4net.,"14,843,164",865
+Serilog.Exceptions.EntityFrameworkCore,8.4.0,Log exception details and custom properties that are not output in Exception.ToString(). Contains custom destructurers for Entity Framework Core exceptions.,"14,832,629",866
+Amazon.CDK.CloudAssembly.Schema,42.0.0,Schema for the protocol between CDK framework and CDK CLI (Stability: Stable),"14,828,102",867
+Npgsql.OpenTelemetry,9.0.3,Package Description,"14,818,360",868
+SqlKata,4.0.1,"A powerful Dynamic Sql Query Builder supporting SQL Server, MySql, PostgreSql, Sqlite, and Oracle","14,799,709",869
+Npgsql.EntityFrameworkCore.PostgreSQL.Design,1.1.0,Npgsql.EntityFrameworkCore.PostgreSQL.Design,"14,777,667",870
+TimeZoneNames,7.0.0,Provides localized time zone names.,"14,767,599",871
+NSwag.CodeGeneration,14.3.0,NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript,"14,754,238",872
+NPoco,5.7.1,"An extremely easy to use Micro-ORM supporting Sql Server, MySQL, PostgreSQL, Oracle, Sqlite, SqlCE.","14,734,725",873
+akavache.sqlite3,10.2.41,Akavache Sqlite3,"14,721,285",874
+Autofac.Owin,7.1.0,ASP.NET OWIN integration support for Autofac IoC.,"14,717,815",875
+MimeMapping,3.1.0,"Constants for (almost) all MIME types and method to determine MIME type from a file name.
+Contains just over 1000 mime types.
+
+The Dictionary is generated from the jshttp/mime-db db.json file.
+Works similar to...
+More information","14,706,469",876
+akavache.core,10.2.41,"An asynchronous, persistent key-value store for desktop and mobile applications on .NET","14,697,705",877
+Autofac.Extras.Moq,7.0.0,Autofac extension for automocking and creation of mock objects in Moq.,"14,687,120",878
+Sentry.Protocol,2.1.8,The Sentry Protocol used to communicate with Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.,"14,630,062",879
+DeepCloner,0.10.4,Small Library for fast deep or shallow cloning .NET objects. It allows to copy everything and has a lot of performance tricks for fast copying.,"14,609,125",880
+DynamicData,9.2.1,"Bring the power of Rx to collections using Dynamic Data.
+Dynamic Data is a comprehensive caching and data manipulation solution which introduces domain centric observable collections.
+      Linq extensions...
+More information","14,585,202",881
+GraphQL.Server.Transports.AspNetCore,8.2.0,HTTP middleware for GraphQL,"14,579,075",882
+akavache,10.2.41,"An asynchronous, persistent key-value store for desktop and mobile applications on .NET","14,568,099",883
+HotChocolate.Transport.Sockets,15.1.3,This package contains common abstractions and base classes for socket transport.,"14,563,656",884
+MudBlazor,8.5.0,Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility,"14,556,248",885
+Antlr4.Runtime,4.6.6,"The runtime library for parsers generated by the C# target of ANTLR 4. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.","14,521,810",886
+AWSXRayRecorder.Handlers.AspNetCore,2.12.0,This package contains libraries to trace ASP.NET Core Web requests.,"14,510,812",887
+Hyak.Common,1.2.2,"Provides infrastructure for common error handling, tracing, configuration, and HTTP/REST-based pipeline manipulation for REST clients generated with Hyak.","14,498,985",888
+dbup,5.0.41,"This package exists to allow easy upgrades from pre-4.0 version This package was split into two packages dbup-core and dbup-sqlserver so that non SQL Server packages did not need to also
+    reference the SQL...
+More information","14,469,157",889
+Ensure.That,10.1.0,Argument validation made simple and unified. It ensures arguments conforms to simple validation rules and provides an uniformed exception throwing strategy if arguments are invalid.,"14,443,564",890
+FluentResults,3.16.0,A lightweight Result object implementation for .NET,"14,428,673",891
+JsonConverter.Abstractions,0.7.1,Common interface for Json converters (serialize and deserialize),"14,425,400",892
+elmah,1.2.2,"ELMAH with initial configuration for getting started quickly. ELMAH (Error Logging Modules and Handlers) is an application-wide error logging facility that is completely pluggable. It can be dynamically added...
+More information","14,379,244",893
+Snowflake.Data,4.3.0,Snowflake Connector for .NET,"14,346,923",894
+Ardalis.SmartEnum,8.2.0,Classes to help produce strongly typed smarter enums in .NET.,"14,335,815",895
+Serilog.Sinks.Splunk,5.1.0,The Splunk Sink for Serilog,"14,334,452",896
+Serilog.Sinks.Literate,3.0.0,"Now replaced by Serilog.Sinks.Console, please use that package instead. An alternative colored console sink for Serilog that pretty-prints properties.","14,298,045",897
+AspNetCore.HealthChecks.System,9.0.0,HealthChecks.System is the system health check package.,"14,254,228",898
+OpenIddict.Validation,6.2.0,"OpenIddict token validation services.
+
+Note: this package only contains the generic/host-agnostic validation components.
+To use the validation feature on ASP.NET Core or OWIN/Katana, reference the...
+More information","14,224,388",899
+Sentry.PlatformAbstractions,1.1.1,Abstractions to platform information,"14,181,274",900
+Z.EntityFramework.Extensions,9.103.7.2,"Entity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
+
+Support: SQL Server, MySQL, Oracle,...
+More information","14,175,357",901
+RazorEngine.NetCore,3.1.0,Fork from https://github.com/Antaris/RazorEngine,"14,138,341",902
+Quartz.AspNetCore,3.14.0,Quartz.NET ASP.NET Core integration; Quartz Scheduling Framework for .NET,"14,116,059",903
+Refractored.MvvmHelpers,1.6.2,"Collection of MVVM Helpers such as ObservableRangeCollection, BaseViewModel, Grouping, and others.","14,009,227",904
+Volo.Abp.Ddd.Application.Contracts,9.1.1,Package Description,"13,994,836",905
+Novell.Directory.Ldap.NETStandard,4.0.0,"LDAP client library - .NET Standard 2.0/2.1, - compatible .NET platforms: .NET >= NET6, NET8, NET9, .NET Framework >= 4.6, Universal Windows Platform, Xamarin. Works with any LDAP server (including Microsoft...
+More information","13,968,653",906
+NJsonSchema.Extensions,0.1.0,"Extension methods for NJsonSchema to convert JObject, JArray and object to a NJsonSchema","13,915,832",907
+Magick.NET-Q8-AnyCPU,14.5.0,"ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...
+More information","13,907,904",908
+Extended.Wpf.Toolkit,4.7.25104.5739,"Extended WPF Toolkit is the number one collection of WPF controls, components and utilities for creating next generation Windows applications. Provides 48 controls, all offered under the Xceed Software Inc...
+More information","13,904,845",909
+AspNetCore.HealthChecks.Publisher.ApplicationInsights,9.0.0,HealthChecks.Publisher.ApplicationInsights is the health check publisher for Application Insights.,"13,863,801",910
+JsonSchema.Net,7.3.4,JSON Schema built on the System.Text.Json namespace,"13,860,920",911
+Datadog.Trace.Bundle,3.13.0,Auto-instrumentation assets for Datadog APM,"13,818,427",912
+mongocsharpdriver,2.30.0,This package contains the legacy driver. The new driver's package name is MongoDB.Driver,"13,812,580",913
+NunitXml.TestLogger,6.1.0,"Xml logger for NUnit v3 compliant xml report when test is running with ""dotnet test"" or ""dotnet vstest"".","13,798,910",914
+DryIoc.dll,5.4.3,"DryIoc is fast, small, full-featured IoC Container for .NET","13,791,254",915
+Serilog.Sinks.XUnit,3.0.19,The xUnit test output sink for Serilog,"13,772,276",916
+Volo.Abp.Http.Abstractions,9.1.1,Package Description,"13,751,488",917
+Amazon.CDK.RegionInfo,2.186.0,"AWS region information, such as service principal names (Stability: Stable)","13,747,237",918
+Volo.Abp.Specifications,9.1.1,Package Description,"13,693,439",919
+CarouselView.FormsPlugin,6.0.0,"Create Horizontal and Vertical carousels, add page indicators, navigation arrows and much more. “How to” at Github repository.","13,649,403",920
+Exceptionless,6.0.4,Exceptionless is a cloud based error reporting service that sends your exceptions to https://exceptionless.com and provides aggregated views and analytics.,"13,636,291",921
+AWSSDK.SecretsManager.Caching,1.0.6,The AWS Secrets Manager .NET caching client enables in-process caching of secrets for C# applications.,"13,624,643",922
+Dapr.AspNetCore,1.15.2,This package contains the reference assemblies for developing services using Dapr and AspNetCore.,"13,585,432",923
+iTextSharp.LGPLv2.Core,3.7.1,iTextSharp.LGPLv2.Core is an unofficial port of the last LGPL version of the iTextSharp (V4.1.6) to .NET Core.,"13,555,770",924
+OpenIddict.Server,6.2.0,"OpenIddict authorization server services.
+
+Note: this package only contains the generic/host-agnostic server components.
+To use the server feature on ASP.NET Core or OWIN/Katana, reference the...
+More information","13,545,696",925
+SharpDX,4.2.0,Core assembly for all SharpDX assemblies.,"13,530,201",926
+EnterpriseLibrary.TransientFaultHandling.Data,6.0.1304.1,"Transient error detection strategies to use with Windows Azure SQL Database, for the Transient Fault Handling Application Block (""Topaz"").","13,501,701",927
+AutoFixture.NUnit3,4.18.1,"By leveraging some features of NUnit3, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).","13,491,269",928
+DotNetCore.NPOI,1.2.3,A .NET library for reading and writing Microsoft Office binary and OOXML file formats.,"13,474,356",929
+SerilogTimings,3.1.0,Extend Serilog with timed operations.,"13,472,361",930
+Elastic.Apm.SerilogEnricher,8.12.3,Enrich Serilog log messages with APM TraceId and TransactionId.,"13,422,276",931
+Volo.Abp.Authorization.Abstractions,9.1.1,Package Description,"13,417,992",932
+RazorGenerator.Mvc,2.4.9,MVC View engine that supports precompiled Razor views,"13,346,024",933
+Tavis.UriTemplates,2.0.0,URI Template resolution library - Implementation of RFC 6570,"13,341,137",934
+Prism.Unity.Forms,9.0.537,Use these extensions to build Xamarin.Forms applications with Prism and Unity.,"13,281,092",935
+Volo.Abp.Features,9.1.1,Package Description,"13,280,891",936
+dotnet-trace,9.0.607501,.NET Performance Trace Tool,"13,265,259",937
+SimpleInfoName,3.1.0,"Generates simple names info (types, parameters, properties, fields, and methods).","13,251,768",938
+Sigil,5.0.0,A fail-fast validating helper for .NET CIL generation,"13,218,104",939
+AsyncFixer,1.6.0,"AsyncFixer helps developers in finding and correcting common async/await misuses (i.e., anti-patterns). It currently detects 5 common kinds of async/await misuses and fixes 3 of them via program...
+More information","13,183,612",940
+modernhttpclient-updated,3.4.3,This library brings the latest platform-specific networking libraries to Xamarin applications via a custom HttpClient handler.,"13,143,619",941
+Colorful.Console,1.2.15,Style your C# console output!,"13,140,344",942
+SixLabors.ImageSharp.Web,3.1.4,ImageSharp Middleware for serving images via a url based API.,"13,099,058",943
+JavaScriptEngineSwitcher.Core,3.24.1,"JavaScript Engine Switcher determines unified interface for access to the basic features of popular JavaScript engines. This library allows you to quickly and easily switch to using of another JavaScript...
+More information","13,082,268",944
+Unity.Mvc,5.11.1,Unity for ASP.NET MVC,"13,065,477",945
+cef.redist.x64,120.2.7,"CEF - the Chromium Embedded Framework.
+    NOTE: This package is maintained on behalf of the CEF authors by the CefSharp project at http://github.com/cefsharp/cef-binary","13,054,583",946
+IronPdf,2025.3.6,"IronPDF helps C# Software Engineers to create, edit and extract PDF content in .NET projects.
+
+# C# HTML to PDF for .NET 8, .NET 7, .NET 6, .NET 5, Core, Standard, and Framework
+# Work with PDFs in C# using...
+More information","13,049,693",947
+SlowCheetah,2.5.48,Allows for configuration based XML transformations at build time.,"13,034,632",948
+dotnet-counters,9.0.607501,.NET Performance Counter Tool,"13,033,023",949
+Nager.Date,2.8.2,"Calculate Public Holidays / Federal Holidays for a given year, translation native and english. Country and County support. Supports more than 100 countries","13,024,212",950
+AWSSDK.Athena,3.7.403.64,"This release adds support for Amazon Athena. Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure...
+More information","13,009,239",951
+ImageProcessor,2.9.0,"Image Processor is an easy to use and extend processing library written in C#. Its fluent API makes common imaging tasks very simple to perform.
+      
+      Methods include; Resize, Rotate, Rounded Corners,...
+More information","12,998,617",952
+Text.Analyzers,3.3.4,Text Analyzers,"12,991,329",953
+NodaTime.Serialization.SystemTextJson,1.3.0,Provides serialization support between Noda Time and System.Text.Json,"12,981,696",954
+DotNetOpenAuth.AspNet,4.3.4.13329,"Enables web site visitors to log into an ASP.NET web application via popular identity providers,
+			including Google, Yahoo!, Windows Live, Facebook, LinkedIn and Twitter.","12,976,823",955
+Npgsql.NetTopologySuite,9.0.3,"NetTopologySuite plugin for Npgsql, allowing mapping of PostGIS geometry types to NetTopologySuite types.","12,968,912",956
+SmartFormat.NET,3.6.0,"This package contains the core SmartFormat assemblies with core extensions built-in,
+and includes references to additional SmartFormat.Extensions packages.
+
+SmartFormat is a lightweight text templating library...
+More information","12,952,854",957
+StrongNamer,0.2.5,Strong Namer will automatically add strong names to referenced assemblies which do not already have a strong name.,"12,944,456",958
+NServiceBus.Newtonsoft.Json,4.1.0,Json.NET serializer for NServiceBus,"12,929,309",959
+NewRelic.Agent,10.39.0,"Make sure you go to New Relic first to sign up and get your license key at https://newrelic.com. Performance monitoring will never be the same after you do!  
+            The package is available through your...
+More information","12,925,861",960
+ReactiveUI,20.2.45,"A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. This is the base package with the base platform...
+More information","12,896,577",961
+Markdown,2.2.1,"Open source C# implementation of Markdown processor, as featured on Stack Overflow. This port is based heavily on the original Perl 1.0.1 and Perl 1.0.2b8 implementations of Markdown, with bits and pieces of...
+More information","12,896,570",962
+AutoMapper.Extensions.EnumMapping,4.1.0,Convention-based enum value mapping extension for AutoMapper.,"12,878,144",963
+Amazon.CDK.Lib,2.186.0,Version 2 of the AWS Cloud Development Kit library (Stability: Stable),"12,852,873",964
+ByteSize,2.1.2,ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.,"12,847,775",965
+OpenTelemetry.PersistentStorage.FileSystem,1.0.1,OpenTelemetry Persistent Storage,"12,817,468",966
+OpenTelemetry.Exporter.Zipkin,1.11.2,Zipkin exporter for OpenTelemetry .NET,"12,810,860",967
+Umbraco.Cms.Web.Common,15.3.0,Contains the web assembly needed to run Umbraco CMS.,"12,807,922",968
+OpenTelemetry.PersistentStorage.Abstractions,1.0.1,OpenTelemetry Persistent Storage Abstractions.,"12,800,010",969
+OpenTracing.Contrib.NetCore,0.9.0,"Adds OpenTracing instrumentation for .NET Core apps that use the `Microsoft.Extensions.*` stack.
+Instrumented components: HttpClient calls, ASP.NET Core, Entity Framework Core and any other library that uses...
+More information","12,797,724",970
+FontAwesome,4.7.0,Iconic font designed for use with Twitter Bootstrap. Package Issues? Post them to https://github.com/JustLikeIcarus/Font-Awesome-NuGet/issues,"12,785,919",971
+Cake.FileHelpers,7.0.0,"Cake Build addon to provide Aliases for common File operations (Reading, Writing, Replacing Text).","12,781,815",972
+JUnitTestLogger,1.1.0,Package Description,"12,729,649",973
+Umbraco.Cms.Infrastructure,15.3.0,Contains the infrastructure assembly needed to run Umbraco CMS.,"12,728,432",974
+UnitsNet,5.73.0,Get all the common units of measurement and the conversions between them. It is light-weight and thoroughly tested.,"12,706,446",975
+Umbraco.Cms.Examine.Lucene,15.3.0,Adds Examine searching support using Lucene to Umbraco CMS.,"12,671,313",976
+Umbraco.Cms.Core,15.3.0,Contains the core assembly needed to run Umbraco CMS.,"12,655,320",977
+Volo.Abp.BackgroundWorkers,9.1.1,Package Description,"12,619,201",978
+Apache.Arrow,19.0.1,"Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic...
+More information","12,610,102",979
+HttpMultipartParser,9.0.0,A C# Http Multipart/form-data parser that works correctly on binary data and very large files.,"12,603,571",980
+Google.Apis.Compute.v1,1.69.0.3731,"This is not the recommended package for working with Compute, please use the Google.Cloud.Compute.V1 package.
+      This Google APIs Client Library for working with Compute v1 uses older code generation, and is...
+More information","12,598,720",981
+Volo.Abp.Auditing.Contracts,9.1.1,Package Description,"12,597,032",982
+PreMailer.Net,2.6.0,"PreMailer.Net is a C# utility for moving CSS to inline style attributes, to gain maximum E-mail client compatibility.","12,569,520",983
+Volo.Abp.Serialization,9.1.1,Package Description,"12,554,891",984
+Google.Cloud.SecretManager.V1,2.5.0,Recommended Google client library to access the Secret Manager API (v1).,"12,498,265",985
+XLabs.Forms,2.0.5782,"XLabs.Forms is a open source project that aims to provide a powerfull and cross platform set of controls tailored to work with Xamarin Forms.
+
+      This package contains the cross-platform XLabs Forms...
+More information","12,495,928",986
+OpenIddict.Validation.AspNetCore,6.2.0,ASP.NET Core integration package for the OpenIddict validation services.,"12,482,489",987
+Volo.Abp.Caching,9.1.1,Package Description,"12,460,906",988
+NetEscapades.Configuration.Yaml,3.1.0,YAML configuration provider implementation to use with Microsoft.Extensions.Configuration.,"12,443,540",989
+NUnitTestAdapter,2.3.0,"The NUnit TestAdapter for Visual Studio 2012 and newer for NUnit 2.  With this package you don't need to install the VSIX adapter package, and you don't need to upload the adapter to your TFS server.
+Note that...
+More information","12,434,875",990
+AjaxControlToolkit,20.1.0,"AjaxControlToolkit contains a rich set of controls that you can use to build highly responsive and interactive AJAX-enabled Web applications. AjaxControlToolkit contains more than 40 controls, including the...
+More information","12,432,757",991
+Amazon.Lambda.DynamoDBEvents,3.1.1,Amazon Lambda .NET Core support - DynamoDBEvents package.,"12,413,171",992
+Umbraco.Cms.PublishedCache.NuCache,14.3.3,Contains the published cache assembly needed to run Umbraco CMS.,"12,385,881",993
+Ninject.Extensions.Factory,3.3.3,Ninject extension that allows to automatically create factories.,"12,384,293",994
+AWSSDK,2.3.55.2,"This is the previous version 2 generation of the AWS SDK for .NET. The new version 3 of the AWS SDK for .NET uses separate packages for each service. For example Amazon S3 is in the AWSSDK.S3 package, Amazon...
+More information","12,383,181",995
+ApacheThrift,0.21.0,C# .NET Core bindings for the Apache Thrift RPC system,"12,369,846",996
+Xunit.DependencyInjection,10.3.0,"Use Microsoft.Extensions.DependencyInjection to inject xunit testclass. If you want write Microsoft.Extensions.Logging to ITestOutputHelper, please install Xunit.DependencyInjection.Logging.
+
+Release...
+More information","12,338,560",997
+NGraphics,0.5.0,NGraphics is a cross platform library for rendering vector graphics on .NET. It provides a unified API for both immediate and retained mode graphics using high quality native renderers.,"12,333,359",998
+TextCopy,6.2.1,A cross platform package to copy text to the clipboard.,"12,306,589",999
+coverlet.console,6.0.4,"Coverlet is a cross platform code coverage tool for .NET, with support for line, branch and method coverage.","12,304,050",1000
+AdvancedStringBuilder,0.1.1,Contains a simple implementation of the pool and extension methods for string builder.,"12,294,654",1001
+libsodium,1.0.20.1,Internal implementation package not meant for direct consumption. Please do not reference directly.,"12,262,558",1002
+WebSocket4Net,0.15.2,"WebSocket4Net is a .NET websocket client implemtation. It originates from SuperWebSocket WebSocket Client. For better developing of the websocket client, it was separated from SuperWebSocket and was renamed to...
+More information","12,223,913",1003
+NetTopologySuite.IO.PostGis,2.1.0,This package contains the IO library to cope with PostGis spatial data.,"12,205,903",1004
