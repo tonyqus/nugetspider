@@ -98,7 +98,7 @@ if __name__ == "__main__":
     locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' ) 
 
     crawler = NuGetCrawler()
-    top_packages = crawler.crawl_packages("", max_packages=100, ignore_MSFT_packages=False)
+    top_packages = crawler.crawl_packages("", max_packages=10000, ignore_MSFT_packages=False)
 
     db_config = {
         "dbname": "tonyqus",
